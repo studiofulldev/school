@@ -9,6 +9,8 @@ O objetivo deste repositório é permitir que qualquer participante encontre rap
 ## Acesso rápido
 
 - [Atas das reuniões](./docs/atas/README.md)
+- [Ementas](./docs/ementas/README.md)
+- [Descobrindo o Mundo Tech](./docs/ementas/trilha-introdutoria-descobrindo-o-mundo-tech.md)
 - [Primeira ata — Reunião inicial de 03/09/2026](./docs/atas/2026/09/2026-09-03-reuniao-inicial.md)
 - [Onde encontrar cada coisa](./docs/onde-encontrar.md)
 - [Arquitetura da documentação](./docs/arquitetura.md)
@@ -22,8 +24,9 @@ O objetivo deste repositório é permitir que qualquer participante encontre rap
 ## Documentação
 
 - [Atas das reuniões](./docs/atas/README.md)
-- [Onde encontrar cada coisa](./docs/onde-encontrar.md)
+- [Ementas](./docs/ementas/README.md)
 - [Arquitetura da documentação](./docs/arquitetura.md)
+- [Onde encontrar cada coisa](./docs/onde-encontrar.md)
 - [Projeto acadêmico FullDev School](./docs/projeto-academico/README.md)
 
 ## Recursos principais

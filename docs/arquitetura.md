@@ -2,7 +2,7 @@
 
 Este documento descreve como o repositório de documentação do FullDev School está organizado.
 
-O objetivo da arquitetura é manter atas, documentação acadêmica, templates, links e decisões em locais previsíveis, facilitando a consulta e a manutenção do projeto.
+O objetivo da arquitetura é manter atas, ementas, documentação acadêmica, templates, links e decisões em locais previsíveis, facilitando a consulta e a manutenção do projeto.
 
 ## Estrutura atual
 
@@ -17,12 +17,16 @@ O objetivo da arquitetura é manter atas, documentação acadêmica, templates, 
 │   │   └── AAAA/
 │   │       └── MM/
 │   │           └── AAAA-MM-DD-nome-da-reuniao.md
+│   ├── ementas/
+│   │   ├── README.md
+│   │   └── nome-da-trilha.md
 │   └── projeto-academico/
 │       ├── README.md
 │       ├── 01-documentacao-de-contexto.md
 │       └── img/
 └── templates/
-    └── ata.md
+    ├── ata.md
+    └── ementa.md
 ```
 
 ## Responsabilidades
@@ -33,6 +37,7 @@ O objetivo da arquitetura é manter atas, documentação acadêmica, templates, 
 | `docs/onde-encontrar.md` | Central de links, canais, ferramentas e recursos oficiais do projeto. |
 | `docs/arquitetura.md` | Explica a organização dos arquivos e os critérios para criação de novos documentos. |
 | `docs/atas/` | Registros de reuniões, decisões, participantes e encaminhamentos. |
+| `docs/ementas/` | Ementas das trilhas formativas e seus índices pedagógicos. |
 | `docs/projeto-academico/` | Documentação acadêmica migrada do repositório da disciplina, incluindo contexto, especificação, metodologia, interface, arquitetura, testes, apresentação e referências. |
 | `templates/` | Modelos reutilizáveis para criação de novos documentos. |
 
@@ -40,6 +45,7 @@ O objetivo da arquitetura é manter atas, documentação acadêmica, templates, 
 
 - Atas devem ficar em `docs/atas/AAAA/MM/`.
 - Documentos acadêmicos da disciplina devem ficar em `docs/projeto-academico/`.
+- Ementas devem ficar em `docs/ementas/`.
 - Templates devem ficar em `templates/`.
 - Documentos de navegação e referência geral devem ficar diretamente em `docs/`.
 - Links para documentos importantes devem ser adicionados ao `README.md` e ao índice da pasta correspondente.
@@ -50,6 +56,7 @@ O objetivo da arquitetura é manter atas, documentação acadêmica, templates, 
 - Separe palavras com hífen.
 - Evite espaços, acentos e caracteres especiais em nomes de arquivos.
 - Para atas, use o formato `AAAA-MM-DD-nome-da-reuniao.md`.
+- Para ementas, use um nome descritivo da trilha, como `trilha-introdutoria-descobrindo-o-mundo-tech.md`.
 
 ## Fluxo para novos documentos
 
@@ -64,5 +71,6 @@ O objetivo da arquitetura é manter atas, documentação acadêmica, templates, 
 
 - [Voltar para a página inicial](../README.md)
 - [Onde encontrar cada coisa](./onde-encontrar.md)
+- [Ementas](./ementas/README.md)
 - [Atas das reuniões](./atas/README.md)
 - [Projeto acadêmico FullDev School](./projeto-academico/README.md)
