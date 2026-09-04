@@ -11,7 +11,7 @@ Repositório responsável por armazenar atas, documentação, decisões e demais
 
 Link:
 
-https://github.com/studiofulldev/documentacao-fulldev.git
+[https://github.com/studiofulldev/documentacao-fulldev.git](https://github.com/studiofulldev/documentacao-fulldev.git)
 
 ## Gestão de tarefas
 
@@ -22,7 +22,7 @@ Quadro utilizado para organizar tarefas, atividades, responsáveis e andamento d
 
 Link:
 
-https://github.com/orgs/studiofulldev/projects/1/views/1?system_template=kanban
+[https://github.com/orgs/studiofulldev/projects/1/views/1?system_template=kanban](https://github.com/orgs/studiofulldev/projects/1/views/1?system_template=kanban)
 
 ## Comunicação
 
@@ -31,18 +31,14 @@ https://github.com/orgs/studiofulldev/projects/1/views/1?system_template=kanban
 Utilização:
 Reuniões, comunicação e atividades relacionadas ao projeto.
 
-Link:
-
-A definir
+Link: [Projeto FullDev School | Projeto de Extensão FullDev &amp; HUB](https://teams.microsoft.com/l/channel/19%3ABrqrz2ZpG-VNU-H06qtuWO20LT1KcJzFkcqLdaDDG7s1%40thread.tacv2/Projeto%20FullDev%20School?groupId=9c6c69f9-1cd8-4b14-844d-c114f19135d7&tenantId=5e2a8164-87b6-430b-ac6b-08d6229e7059&ngc=true)
 
 ### WhatsApp
 
 Utilização:
 Comunicação rápida entre os integrantes do projeto.
 
-Link:
-
-A definir
+Link: [https://chat.whatsapp.com/GQ7LaBcwVrU6Qay4C6HD62](https://chat.whatsapp.com/GQ7LaBcwVrU6Qay4C6HD62)
 
 ## Design
 
@@ -51,11 +47,9 @@ A definir
 Utilização:
 Protótipos, interfaces, design e materiais visuais relacionados ao FullDev School.
 
-Link:
+Link: [https://www.figma.com/design/ssbpnQHmKCIlJ6diOqrDIv/FullDev-School?m=auto&amp;t=4krdejdpnIBrS4Z0-6](https://www.figma.com/design/ssbpnQHmKCIlJ6diOqrDIv/FullDev-School?m=auto&t=4krdejdpnIBrS4Z0-6)
 
-A definir
+## Navegação relacionada
 
-## Navegacao relacionada
-
-- [Voltar para a pagina inicial](../README.md)
+- [Voltar para a página inicial](../README.md)
 - [Atas das reuniões](./atas/README.md)
