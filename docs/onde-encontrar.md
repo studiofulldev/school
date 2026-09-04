@@ -13,6 +13,25 @@ Link:
 
 [https://github.com/studiofulldev/documentacao-fulldev.git](https://github.com/studiofulldev/documentacao-fulldev.git)
 
+### Ementas
+
+Utilização:
+Consulta das trilhas formativas, objetivos pedagógicos, módulos, conteúdos programáticos, atividades integradoras e resultados de aprendizagem.
+
+Links:
+
+- [Índice de ementas](./ementas/README.md)
+- [Descobrindo o Mundo Tech](./ementas/trilha-introdutoria-descobrindo-o-mundo-tech.md)
+
+### Arquitetura da documentação
+
+Utilização:
+Referência sobre a organização das pastas, convenções de nomenclatura e fluxo para criação de novos documentos.
+
+Link:
+
+[Arquitetura da documentação](./arquitetura.md)
+
 ## Gestão de tarefas
 
 **GitHub Projects — Kanban**
@@ -53,3 +72,5 @@ Link: [https://www.figma.com/design/ssbpnQHmKCIlJ6diOqrDIv/FullDev-School?m=aut
 
 - [Voltar para a página inicial](../README.md)
 - [Atas das reuniões](./atas/README.md)
+- [Ementas](./ementas/README.md)
+- [Arquitetura da documentação](./arquitetura.md)
