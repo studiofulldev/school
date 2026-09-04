@@ -10,6 +10,8 @@
 **Responsável:** Lucas de Araujo Pedro  
 **Link da reunião:** [Microsoft Teams](https://teams.microsoft.com/l/meetingrecap?driveId=b%21hSWg2UEk3U6J6-UWp4nq8NtuPyvkkDhJlxx11x1bk-40JOMLHpNTS7usUfTywupn&driveItemId=013VFXZPHPOQLV7F3UTBFKK6GGTAP2D7YR&sitePath=https%3A%2F%2Fpucminasedu.sharepoint.com%2Fsites%2FProjetodeExtensoFullDevHUB-ProjetoFullDevSchool%2FDocumentos+Compartilhados%2FGrava%C3%A7%C3%B5es%2FReuni%C3%A3o+em+Projeto+FullDev+School-20260903_211541-Grava%C3%A7%C3%A3o+de+Reuni%C3%A3o.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Fpucminasedu.sharepoint.com%2Fsites%2FProjetodeExtensoFullDevHUB-ProjetoFullDevSchool%2FDocumentos+Compartilhados%2FGrava%C3%A7%C3%B5es%2FReuni%C3%A3o+em+Projeto+FullDev+School-20260903_211541-Grava%C3%A7%C3%A3o+de+Reuni%C3%A3o.mp4%3Fweb%3D1&threadId=19%3ABrqrz2ZpG-VNU-H06qtuWO20LT1KcJzFkcqLdaDDG7s1%40thread.tacv2&organizerId=c1dbbfbf-81ea-4817-96f6-f3477e3ec989&tenantId=5e2a8164-87b6-430b-ac6b-08d6229e7059&callId=38780020-8302-476d-b777-640f487601bb&threadType=space&meetingType=MeetNow&organizerGroupId=f36e9109-b58f-43a8-9d38-fcf533d42fbb&channelType=Private&replyChainId=1788480779739&subType=RecapSharingLink_RecapCore&recapType=RecordingAndTranscript)
 
+<img width="537" height="461" alt="image" src="https://github.com/user-attachments/assets/7025cc80-2349-4536-bab5-a95810d4abd5" />
+
 ## Resumo
 
 Reunião inicial do projeto FullDev School, realizada pelo Microsoft Teams, com 4 participantes atendidos.
