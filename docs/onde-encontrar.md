@@ -13,6 +13,24 @@ Link:
 
 [https://github.com/studiofulldev/documentacao-fulldev.git](https://github.com/studiofulldev/documentacao-fulldev.git)
 
+### Projeto acadêmico
+
+Utilização:
+Consulta da documentação acadêmica migrada do repositório da disciplina, incluindo contexto, especificação, metodologia, interface, arquitetura, testes, apresentação e referências.
+
+Link:
+
+[Projeto acadêmico FullDev School](./projeto-academico/README.md)
+
+### Arquitetura da documentação
+
+Utilização:
+Referência sobre a organização das pastas, convenções de nomenclatura e fluxo para criação de novos documentos.
+
+Link:
+
+[Arquitetura da documentação](./arquitetura.md)
+
 ## Gestão de tarefas
 
 **GitHub Projects — Kanban**
@@ -53,3 +71,5 @@ Link: [https://www.figma.com/design/ssbpnQHmKCIlJ6diOqrDIv/FullDev-School?m=aut
 
 - [Voltar para a página inicial](../README.md)
 - [Atas das reuniões](./atas/README.md)
+- [Arquitetura da documentação](./arquitetura.md)
+- [Projeto acadêmico FullDev School](./projeto-academico/README.md)
