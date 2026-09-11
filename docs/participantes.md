@@ -3,6 +3,7 @@
 Este documento registra a identificacao nominal permitida na documentacao publica do FullDev School.
 
 - Lucas Pedro - FullDev | PUC Minas
+- Daniel Arantes - FullDev | PUC Minas
 
 ## Diretrizes
 
