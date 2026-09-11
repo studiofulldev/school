@@ -17,9 +17,9 @@ Hackathons com premiacoes, certificados formais, programas de aceleracao, patroc
 
 ## Personas
 
-### Persona 1: Ana Clara, estudante do ensino medio
+### Persona 1: Estudante do ensino medio
 
-Ana Clara tem 17 anos, estuda em escola publica e tem interesse em tecnologia, mas nao sabe por onde comecar. Ela consome videos gratuitos, porem sente falta de uma trilha organizada, atividades praticas e contato com pessoas que ja atuam na area.
+Pessoa estudante de escola publica, com interesse em tecnologia, mas sem clareza sobre por onde comecar. Consome videos gratuitos, porem sente falta de uma trilha organizada, atividades praticas e contato com pessoas que ja atuam na area.
 
 Necessidades principais:
 
@@ -27,9 +27,9 @@ Necessidades principais:
 - Participar de atividades praticas de baixa barreira de entrada.
 - Receber orientacao sobre estudos, carreira e portfolio.
 
-### Persona 2: Marcos, pessoa em transicao de carreira
+### Persona 2: Pessoa em transicao de carreira
 
-Marcos tem 31 anos, trabalha fora da area de tecnologia e busca migrar para desenvolvimento de software. Ele precisa conciliar estudo com trabalho, quer construir portfolio e procura experiencias praticas que demonstrem capacidade para futuras oportunidades.
+Pessoa que trabalha fora da area de tecnologia e busca migrar para desenvolvimento de software. Precisa conciliar estudo com trabalho, quer construir portfolio e procura experiencias praticas que demonstrem capacidade para futuras oportunidades.
 
 Necessidades principais:
 
@@ -37,9 +37,9 @@ Necessidades principais:
 - Participar de desafios e projetos colaborativos.
 - Registrar entregas praticas e evidencias de participacao.
 
-### Persona 3: Beatriz, extensionista universitaria
+### Persona 3: Extensionista universitaria
 
-Beatriz tem 22 anos, cursa tecnologia e participa de atividades de extensao. Ela deseja criar oficinas e desafios para a comunidade, mas precisa de orientacao, criterios de qualidade e validacao academica antes da publicacao.
+Pessoa que cursa tecnologia e participa de atividades de extensao. Deseja criar oficinas e desafios para a comunidade, mas precisa de orientacao, criterios de qualidade e validacao academica antes da publicacao.
 
 Necessidades principais:
 

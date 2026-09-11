@@ -6,12 +6,19 @@ Aqui ficam centralizados os registros e materiais de referência do projeto, com
 
 O objetivo deste repositório é permitir que qualquer participante encontre rapidamente as informações essenciais do FullDev School.
 
+## Participantes
+
+- Lucas Pedro - FullDev | PUC Minas
+
+A documentacao sobre participantes esta em [docs/participantes.md](./docs/participantes.md).
+
 ## Acesso rápido
 
 - [Atas das reuniões](./docs/atas/README.md)
 - [Primeira ata — Reunião inicial de 03/09/2026](./docs/atas/2026/09/2026-09-03-reuniao-inicial.md)
 - [Onde encontrar cada coisa](./docs/onde-encontrar.md)
 - [Arquitetura da documentação](./docs/arquitetura.md)
+- [Participantes](./docs/participantes.md)
 - [Projeto acadêmico FullDev School](./docs/projeto-academico/README.md)
 - [Kanban / GitHub Projects](https://github.com/orgs/studiofulldev/projects/1/views/1?system_template=kanban)
 - [Microsoft Teams](https://teams.microsoft.com/l/channel/19%3ABrqrz2ZpG-VNU-H06qtuWO20LT1KcJzFkcqLdaDDG7s1%40thread.tacv2/Projeto%20FullDev%20School?groupId=9c6c69f9-1cd8-4b14-844d-c114f19135d7&tenantId=5e2a8164-87b6-430b-ac6b-08d6229e7059&ngc=true)
@@ -24,6 +31,7 @@ O objetivo deste repositório é permitir que qualquer participante encontre rap
 - [Atas das reuniões](./docs/atas/README.md)
 - [Onde encontrar cada coisa](./docs/onde-encontrar.md)
 - [Arquitetura da documentação](./docs/arquitetura.md)
+- [Participantes](./docs/participantes.md)
 - [Projeto acadêmico FullDev School](./docs/projeto-academico/README.md)
 
 ## Recursos principais
