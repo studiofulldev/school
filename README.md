@@ -9,6 +9,7 @@ O objetivo deste repositório é permitir que qualquer participante encontre rap
 ## Participantes
 
 - Lucas Pedro - FullDev | PUC Minas
+- Dayse Rocha
 
 A documentacao sobre participantes esta em [docs/participantes.md](./docs/participantes.md).
 
