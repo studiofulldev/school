@@ -5,6 +5,7 @@ Este documento registra a identificacao nominal permitida na documentacao public
 - Lucas Pedro - FullDev | PUC Minas
 - Dayse Rocha
 - Livia Cardoso de Araujo
+- Taynara Paula dos Santos
 
 ## Diretrizes
 
