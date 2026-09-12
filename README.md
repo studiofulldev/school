@@ -11,6 +11,7 @@ O objetivo deste repositório é permitir que qualquer participante encontre rap
 - Lucas Pedro - FullDev | PUC Minas
 - Dayse Rocha
 - Livia Cardoso de Araujo
+- Taynara Paula dos Santos 
 
 A documentacao sobre participantes esta em [docs/participantes.md](./docs/participantes.md).
 
