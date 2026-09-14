@@ -18,16 +18,11 @@ Na v1, a prioridade e tirar o participante do consumo passivo de conteudo e leva
 - Hub comunitario: forum, vagas, eventos, comunicados, oportunidades de networking e conexao com parceiros.
 - Site institucional: apresentacao do projeto, problema, solucao, publico, impacto, parceiros, equipe e caminhos de entrada para alunos, instrutores e apoiadores.
 
-## Integrantes
+## Participantes
 
-* Lucas Pedro
-* Carlos Franca
-* Giovana
-* Mateus Braz
+- Lucas Pedro - FullDev | PUC Minas
 
-## Orientador
-
-* A definir
+A documentacao sobre os participantes do projeto esta em [14-participantes.md](./14-participantes.md).
 
 ## Instrucoes de utilizacao
 
@@ -49,6 +44,7 @@ A primeira versao executavel ainda sera implementada. Nesta etapa, o repositorio
 <li><a href="./11-registro-de-testes-de-usabilidade.md">Registro de Testes de Usabilidade</a></li>
 <li><a href="./12-apresentacao-do-projeto.md">Apresentacao do Projeto</a></li>
 <li><a href="./13-referencias.md">Referencias</a></li>
+<li><a href="./14-participantes.md">Participantes</a></li>
 </ol>
 
 # Codigo

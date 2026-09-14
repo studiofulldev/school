@@ -7,8 +7,8 @@
 **Duração da reunião:** 44m 12s  
 **Tempo médio de participação:** 20m 56s  
 **Projeto:** FullDev School  
-**Responsável:** Lucas de Araujo Pedro  
-**Link da reunião:** [Microsoft Teams](https://teams.microsoft.com/l/meetingrecap?driveId=b%21hSWg2UEk3U6J6-UWp4nq8NtuPyvkkDhJlxx11x1bk-40JOMLHpNTS7usUfTywupn&driveItemId=013VFXZPHPOQLV7F3UTBFKK6GGTAP2D7YR&sitePath=https%3A%2F%2Fpucminasedu.sharepoint.com%2Fsites%2FProjetodeExtensoFullDevHUB-ProjetoFullDevSchool%2FDocumentos+Compartilhados%2FGrava%C3%A7%C3%B5es%2FReuni%C3%A3o+em+Projeto+FullDev+School-20260903_211541-Grava%C3%A7%C3%A3o+de+Reuni%C3%A3o.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Fpucminasedu.sharepoint.com%2Fsites%2FProjetodeExtensoFullDevHUB-ProjetoFullDevSchool%2FDocumentos+Compartilhados%2FGrava%C3%A7%C3%B5es%2FReuni%C3%A3o+em+Projeto+FullDev+School-20260903_211541-Grava%C3%A7%C3%A3o+de+Reuni%C3%A3o.mp4%3Fweb%3D1&threadId=19%3ABrqrz2ZpG-VNU-H06qtuWO20LT1KcJzFkcqLdaDDG7s1%40thread.tacv2&organizerId=c1dbbfbf-81ea-4817-96f6-f3477e3ec989&tenantId=5e2a8164-87b6-430b-ac6b-08d6229e7059&callId=38780020-8302-476d-b777-640f487601bb&threadType=space&meetingType=MeetNow&organizerGroupId=f36e9109-b58f-43a8-9d38-fcf533d42fbb&channelType=Private&replyChainId=1788480779739&subType=RecapSharingLink_RecapCore&recapType=RecordingAndTranscript)
+**Responsável:** Lucas Pedro - FullDev | PUC Minas
+**Link da reunião:** registro interno do Microsoft Teams removido da documentação pública.
 
 <img width="537" height="461" alt="image" src="https://github.com/user-attachments/assets/7025cc80-2349-4536-bab5-a95810d4abd5" />
 
@@ -20,19 +20,18 @@ Foram apresentados o objetivo geral do projeto, os canais da comunidade, a propo
 
 ## Participantes
 
-| Nome | Primeira entrada | Última saída | Duração da reunião | Email | ID do participante (UPN) | Função |
-| --- | --- | --- | --- | --- | --- | --- |
-| Lucas de Araujo Pedro | 03/09/2026, 21:12:58 | 03/09/2026, 21:57:07 | 44m 9s | 1630267@pucminas.edu.br | 1630267@pucminas.edu.br | Organizador |
-| Livia Cardoso de Araujo | 03/09/2026, 21:13:25 | 03/09/2026, 21:30:28 | 17m 3s | 1685479@pucminas.edu.br | 1685479@pucminas.edu.br | Apresentador |
-| Deuslano Veloso de Oliveira Junior | 03/09/2026, 21:13:44 | 03/09/2026, 21:30:30 | 16m 46s | 1527652@pucminas.edu.br | 1527652@pucminas.edu.br | Apresentador |
-| Danielle Alecrim Dias | 03/09/2026, 21:24:42 | 03/09/2026, 21:30:29 | 5m 46s | 1660262@pucminas.edu.br | 1660262@pucminas.edu.br | Apresentador |
+Identificação nominal mantida: Lucas Pedro - FullDev | PUC Minas.
+
+| Participante | Primeira entrada | Última saída | Duração da reunião | Função |
+| --- | --- | --- | --- | --- |
+| Responsável pelo projeto | 03/09/2026, 21:12:58 | 03/09/2026, 21:57:07 | 44m 9s | Organizador |
+| Participante convidado 1 | 03/09/2026, 21:13:25 | 03/09/2026, 21:30:28 | 17m 3s | Apresentador |
+| Participante convidado 2 | 03/09/2026, 21:13:44 | 03/09/2026, 21:30:30 | 16m 46s | Apresentador |
+| Participante convidado 3 | 03/09/2026, 21:24:42 | 03/09/2026, 21:30:29 | 5m 46s | Apresentador |
 
 ## Ausentes mencionados
 
-- Maria
-- João Alberto
-- Saulo
-- Tainara
+- Participantes ausentes mencionados sem identificação nominal.
 
 ## Objetivo da reunião
 
@@ -51,7 +50,7 @@ Apresentar inicialmente o projeto FullDev School, orientar os participantes sobr
 - Participação em hackathons.
 - Utilização da plataforma tanto como produtor quanto como consumidor de conteúdo.
 - Elaboração inicial da ementa e estrutura do projeto.
-- Participação de Lucas, professora Viviane e outro professor na elaboração da ementa e estrutura do projeto.
+- Participação do responsável e de professores na elaboração da ementa e estrutura do projeto.
 - Comunicação do grupo pelo WhatsApp.
 - Incentivo à participação, aprendizado coletivo e desenvolvimento da comunicação profissional.
 
@@ -69,46 +68,46 @@ Não foram registradas ações com responsáveis definidos nesta ata.
 
 ## Atividades em reunião
 
-| Nome | Horário de entrada | Horário de saída | Duração | Email | Função |
-| --- | --- | --- | --- | --- | --- |
-| Lucas de Araujo Pedro | 03/09/2026, 21:12:58 | 03/09/2026, 21:57:07 | 44m 9s | 1630267@pucminas.edu.br | Organizador |
-| Livia Cardoso de Araujo | 03/09/2026, 21:13:25 | 03/09/2026, 21:30:28 | 17m 3s | 1685479@pucminas.edu.br | Apresentador |
-| Deuslano Veloso de Oliveira Junior | 03/09/2026, 21:13:44 | 03/09/2026, 21:30:30 | 16m 46s | 1527652@pucminas.edu.br | Apresentador |
-| Danielle Alecrim Dias | 03/09/2026, 21:24:42 | 03/09/2026, 21:30:29 | 5m 46s | 1660262@pucminas.edu.br | Apresentador |
+| Participante | Horário de entrada | Horário de saída | Duração | Função |
+| --- | --- | --- | --- | --- |
+| Responsável pelo projeto | 03/09/2026, 21:12:58 | 03/09/2026, 21:57:07 | 44m 9s | Organizador |
+| Participante convidado 1 | 03/09/2026, 21:13:25 | 03/09/2026, 21:30:28 | 17m 3s | Apresentador |
+| Participante convidado 2 | 03/09/2026, 21:13:44 | 03/09/2026, 21:30:30 | 16m 46s | Apresentador |
+| Participante convidado 3 | 03/09/2026, 21:24:42 | 03/09/2026, 21:30:29 | 5m 46s | Apresentador |
 
 ## Transcrição
 
-### Lucas de Araujo Pedro
+### Lucas Pedro - FullDev | PUC Minas
 
-Bom, acho que Maria, João Alberto e Saulo não vão entrar. Galera, sejam muito bem-vindos. Eu anotei algumas coisinhas aqui sobre o que a gente vai fazer e falar.
+Bom, acho que alguns participantes não vão entrar. Galera, sejam muito bem-vindos. Eu anotei algumas coisinhas aqui sobre o que a gente vai fazer e falar.
 
-Faltou uma menina aqui, Tainara, que não está aqui.
+Faltou uma participante aqui, que não está presente.
 
 Enfim, depois eu passo para ela.
 
 Consegue ver se está aparecendo aí para você que está gravando?
 
-### Livia Cardoso de Araujo — 21:16
+### Participante convidado 1 — 21:16
 
 Sim, aqui está aparecendo. Está gravando.
 
-### Lucas de Araujo Pedro — 21:16
+### Lucas Pedro - FullDev | PUC Minas — 21:16
 
 Antes de tudo, eu vou pedir para vocês acessarem as redes do grupo, da comunidade, e ingressarem lá na plataforma. Deixa eu pegar o LinkedIn aqui, isso aqui é nosso de cabeça.
 
 Seguir a página também no LinkedIn. A nossa página da comunidade Full Dev, a gente consegue anexar no nosso LinkedIn e colocar como experiência. Então, se vocês se sentirem à vontade e quiserem colocar como experiência, podem colocar extensionista, sei lá, do projeto Full Dev e mencionar a página. Então, conta como experiência.
 
-Para vocês, a Alexandre perfil também, que é isso aqui da comunidade também.
+Para vocês, o perfil da comunidade também.
 
 Beleza, deixa eu compartilhar a tela aqui.
 
 Vocês conseguem enxergar aí?
 
-### Livia Cardoso de Araujo — 21:17
+### Participante convidado 1 — 21:17
 
 Bing.
 
-### Lucas de Araujo Pedro — 21:17
+### Lucas Pedro - FullDev | PUC Minas — 21:17
 
 Show.
 
@@ -122,41 +121,41 @@ Então, como é que vai funcionar? É basicamente um ciclo de pessoas. Cadê? De
 
 Então, você alimenta a plataforma com vídeos e textos, você participa de hackathons, você pode participar de hackathons e você pode participar como usuário para aprender sobre os cursos dentro da plataforma.
 
-Então, para o início agora do nosso projeto, a gente vai fazer uma elaboração, eu, a professora Viviane e mais um professor, que é basicamente a ementa do nosso projeto. Então, nosso projeto funciona...
+Então, para o início agora do nosso projeto, a gente vai fazer uma elaboração com apoio de professores, que é basicamente a ementa do nosso projeto. Então, nosso projeto funciona...
 
-### Danielle Alecrim Dias — 21:28
+### Participante convidado 3 — 21:28
 
 Peguei direitinho, obrigada, viu?
 
-### Lucas de Araujo Pedro — 21:28
+### Lucas Pedro - FullDev | PUC Minas — 21:28
 
 Nada. Aí eu deixo aberto mais uma vez aqui para vocês. Caso vocês tenham alguma dúvida, participem, fiquem à vontade.
 
 Bom, caso ninguém tenha dúvida...
 
-### Livia Cardoso de Araujo — 21:29
+### Participante convidado 1 — 21:29
 
 A gente está quase brigando aqui para falar, né? Todo mundo querendo falar.
 
-### Lucas de Araujo Pedro — 21:29
+### Lucas Pedro - FullDev | PUC Minas — 21:29
 
-É, não, vocês estão... vocês estão que nem eu, cara. Eu sou uma pessoa muito tímida, vocês não têm ideia de quão tímido eu sou. Eu não sei se vocês prestaram atenção lá no início da reunião. A professora passou, passou em Lucas, eu comecei a gaguejar, travar assim. Eu estou tentando destravar disso, porque...
+É, não, vocês estão... vocês estão que nem eu, cara. Eu sou uma pessoa muito tímida, vocês não têm ideia de quão tímido eu sou. Eu não sei se vocês prestaram atenção lá no início da reunião. Quando chegou minha vez, eu comecei a gaguejar, travar assim. Eu estou tentando destravar disso, porque...
 
-### Danielle Alecrim Dias — 21:29
+### Participante convidado 3 — 21:29
 
 Yeah.
 
-### Lucas de Araujo Pedro — 21:29
+### Lucas Pedro - FullDev | PUC Minas — 21:29
 
 Quando eu entrei para a área de tecnologia, eu falei assim: "Poxa, eu não vou precisar falar com ninguém." Só que eu descobri que não é verdade. Eu tenho que falar com pessoas.
 
-Pois é, então não sei se vocês têm essa trava com vocês. Ninguém vai saber, como o Hugo falou, ninguém sabe nada, ninguém é dono da verdade.
+Pois é, então não sei se vocês têm essa trava com vocês. Ninguém sabe tudo, ninguém é dono da verdade.
 
-### Danielle Alecrim Dias — 21:29
+### Participante convidado 3 — 21:29
 
 Não é bem assim.
 
-### Lucas de Araujo Pedro — 21:29
+### Lucas Pedro - FullDev | PUC Minas — 21:29
 
 É, a gente vai estar sempre aprendendo, estamos sempre aprendendo e é isso. Espero que vocês estejam felizes, assim como estou feliz, e vamos fazer esse projeto acontecer.
 
@@ -164,35 +163,35 @@ E eu espero que, assim como eu estou conseguindo, conquistando as coisas nessa �
 
 É isso. Então, vamos finalizar a nossa reunião por aqui, já que vocês não têm nenhuma dúvida, e vamos nos falando lá pelo Zap Zap. Show de bola?
 
-### Danielle Alecrim Dias — 21:30
+### Participante convidado 3 — 21:30
 
 Issue.
 
-### Lucas de Araujo Pedro — 21:30
+### Lucas Pedro - FullDev | PUC Minas — 21:30
 
 Coração, pessoal. Beijo.
 
-### Danielle Alecrim Dias — 21:30
+### Participante convidado 3 — 21:30
 
 Tchau, tchau. Até mais.
 
-### Deuslano Veloso de Oliveira Junior — 21:30
+### Participante convidado 2 — 21:30
 
 Tchau para todo mundo!
 
-### Lucas de Araujo Pedro — 21:30
+### Lucas Pedro - FullDev | PUC Minas — 21:30
 
 What?
 
-### Livia Cardoso de Araujo — 21:30
+### Participante convidado 1 — 21:30
 
 Tchau, galera!
 
-### Deuslano Veloso de Oliveira Junior — 21:30
+### Participante convidado 2 — 21:30
 
 Some, adeus.
 
-### Lucas de Araujo Pedro — 21:30
+### Lucas Pedro - FullDev | PUC Minas — 21:30
 
 Ah, tá.
 

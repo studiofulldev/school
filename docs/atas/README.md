@@ -46,6 +46,7 @@ Exemplo:
 #### Setembro
 
 - [03/09/2026 — Reunião inicial](./2026/09/2026-09-03-reuniao-inicial.md)
+- [10/09/2026 — Alinhamento com orientação e decisões do projeto](./2026/09/2026-09-10-alinhamento-com-orientacao.md)
 
 ## Navegação relacionada
 
