@@ -9,6 +9,7 @@ O objetivo deste repositório é permitir que qualquer participante encontre rap
 ## Participantes
 
 - Lucas Pedro - FullDev | PUC Minas
+- Daniel Arantes - FullDev | PUC Minas
 - Dayse Rocha
 - Livia Cardoso de Araujo
 - Taynara Paula dos Santos 
