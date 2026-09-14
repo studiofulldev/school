@@ -10,6 +10,7 @@ O objetivo deste repositório é permitir que qualquer participante encontre rap
 
 - Lucas Pedro - FullDev | PUC Minas
 - Daniel Arantes - FullDev | PUC Minas
+- Danielle Alecrim Dias
 - Dayse Rocha
 - Laura Magalhães Ferreira
 - Livia Cardoso de Araujo
