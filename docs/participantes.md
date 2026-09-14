@@ -5,10 +5,12 @@ Este documento registra a identificacao nominal permitida na documentacao public
 - Lucas Pedro - FullDev | PUC Minas
 - Daniel Arantes - FullDev | PUC Minas
 - Dayse Rocha
+- Danielle Alecrim Dias
 - João Alberto Raymundo Borges
 - Laura Magalhães Ferreira
 - Livia Cardoso de Araujo
 - Taynara Paula dos Santos
+  
 
 ## Diretrizes
 
