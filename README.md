@@ -15,6 +15,7 @@ O objetivo deste repositório é permitir que qualquer participante encontre rap
 - Laura Magalhães Ferreira
 - Livia Cardoso de Araujo
 - Taynara Paula dos Santos
+- João Pedro Pereira do Carmo | PUC Minas
 
 A documentacao sobre participantes esta em [docs/participantes.md](./docs/participantes.md).
 
