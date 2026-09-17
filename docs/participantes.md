@@ -9,7 +9,7 @@ Este documento registra a identificacao nominal permitida na documentacao public
 - João Alberto Raymundo Borges
 - Laura Magalhães Ferreira
 - Livia Cardoso de Araujo
-- Taynara Paula dos Santos
+- Taynara Paula dos Santos | PUC Minas
   
 
 ## Diretrizes
