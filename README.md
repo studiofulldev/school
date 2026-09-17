@@ -14,7 +14,7 @@ O objetivo deste repositório é permitir que qualquer participante encontre rap
 - Dayse Rocha
 - Laura Magalhães Ferreira
 - Livia Cardoso de Araujo
-- Taynara Paula dos Santos
+- Taynara Paula dos Santos | PUC Minas
 - João Pedro Pereira do Carmo | PUC Minas
 
 A documentacao sobre participantes esta em [docs/participantes.md](./docs/participantes.md).
