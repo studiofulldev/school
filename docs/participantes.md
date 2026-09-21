@@ -10,6 +10,7 @@ Este documento registra a identificacao nominal permitida na documentacao public
 - Laura Magalhães Ferreira
 - Livia Cardoso de Araujo
 - Taynara Paula dos Santos | PUC Minas
+- Hernando Junior | Fulldev
   
 
 ## Diretrizes
