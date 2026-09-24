@@ -35,6 +35,16 @@ Ao combinar comunidade, extensao universitaria, professores e colaboradores tecn
 
 A validacao academica do ICEI/PUC Minas aumenta a confianca sobre os conteudos publicados. Ja a aproximacao com parceiros de mercado permite, em fases futuras, apoiar premiacoes, mentorias, programas de aceleracao e banco de talentos, sem prometer empregabilidade direta como entrega imediata do produto.
 
+## Panorama do mercado de tecnologia
+
+### Vale a pena entrar na area?
+
+A demanda por profissionais de tecnologia segue alta em termos absolutos, mas o mercado mudou de perfil nos ultimos anos. A entrada deixou de ser garantida apenas por cursos e certificados: recrutadores priorizam evidencia pratica, capacidade de resolver problemas reais e adaptabilidade. Para quem esta comecando, a area continua compensando pela flexibilidade de trabalho remoto, pela diversidade de trilhas (desenvolvimento, dados, infraestrutura, produto, design) e por nao exigir, na maioria dos casos, formacao formal obrigatoria, desde que exista portfolio e capacidade demonstravel. A remuneracao e a estabilidade, porem, estao cada vez mais atreladas a especializacao e a experiencia acumulada, nao apenas ao dominio isolado de uma linguagem ou framework.
+
+### Principais desafios
+
+A concentracao de demanda em niveis pleno e senior reduziu a oferta de vagas junior e aumentou a competitividade na entrada. Alem disso, o profissional em formacao enfrenta atualizacao constante de ferramentas e praticas, uma curva de aprendizado que combina tecnica com competencias comportamentais (comunicacao, trabalho em equipe, lidar com prazos e feedback), e dificuldade de avaliar sozinho o que e prioritario estudar em meio a um volume grande de conteudo disponivel.
+
 ## Publico-Alvo
 
 O publico-alvo da plataforma inclui:
