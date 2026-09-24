@@ -17,7 +17,8 @@ O objetivo deste repositório é permitir que qualquer participante encontre rap
 - Taynara Paula dos Santos | PUC Minas
 - João Alberto Raymundo Borges | PUC Minas
 - João Pedro Pereira do Carmo | PUC Minas
-- Hernando Junior | Fulldev
+- Hernando Junior | FullDev
+- Matheus Braz | FullDev
 
 A documentacao sobre participantes esta em [docs/participantes.md](./docs/participantes.md).
 
