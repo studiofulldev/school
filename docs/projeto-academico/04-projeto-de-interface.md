@@ -123,6 +123,12 @@ Elementos principais:
 - Parecer de validacao.
 - Indicadores de inscritos, permanencia, entregas, satisfacao e engajamento.
 
+### Telas de baixa fidelidade no Canvas
+
+Proposta: telas da plataforma de cursos no Canvas LMS, conforme a [Arquitetura da Solucao](./05-arquitetura-da-solucao.md). Sao telas nativas do Canvas, configuradas pelo design instrucional.
+
+![Telas de baixa fidelidade no Canvas](./img/04-telas-baixa-fidelidade.png)
+
 ## Navegacao Prevista
 
 - Inicio
