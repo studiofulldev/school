@@ -47,6 +47,7 @@ Exemplo:
 
 - [03/09/2026 — Reunião inicial](./2026/09/2026-09-03-reuniao-inicial.md)
 - [10/09/2026 — Alinhamento com orientação e decisões do projeto](./2026/09/2026-09-10-alinhamento-com-orientacao.md)
+- [24/09/2026 — Organização da trilha de aprendizagem e conteúdos](./2026/09/2026-09-24-organizacao-trilha-aprendizagem-e-conteudos.md)
 
 ## Navegação relacionada
 
