@@ -1,7 +1,7 @@
 # Módulo 5 — Tecnologia e Sistemas Modernos
 
 **Trilha:** [Descobrindo o Mundo Tech](../../../ementas/trilha-introdutoria-descobrindo-o-mundo-tech.md)  
-**Responsável:** Daniel Arantes Castro
+**Responsável:** Daniel Arantes Castro  
 **Status:** proposta de tópicos para revisão
 
 ## Objetivo
