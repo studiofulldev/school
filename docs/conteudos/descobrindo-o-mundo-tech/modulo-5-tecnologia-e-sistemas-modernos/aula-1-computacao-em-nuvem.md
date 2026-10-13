@@ -128,4 +128,5 @@ Como usuário, você usa SaaS todos os dias. PaaS e IaaS são mais usados por qu
 ## Navegação relacionada
 
 - [Voltar para o Módulo 5](./README.md)
+- [Próxima aula: Segurança digital](./aula-2-seguranca-digital.md)
 - [Ementa da trilha](../../../ementas/trilha-introdutoria-descobrindo-o-mundo-tech.md)
