@@ -15,43 +15,44 @@ Ao final desta aula, você deverá ser capaz de:
 
 ## 1. Servidores
 
-Quando você abre um site, assiste a um vídeo ou manda uma mensagem, o seu aparelho pede algo a outro computador. Esse outro computador é um **servidor**.
+Quando você abre um site, assiste a um vídeo ou manda uma mensagem, o seu aparelho não tem aquele conteúdo guardado. Ele envia um pedido pela Internet a outro computador, que responde com o que foi pedido. Esse outro computador é um **servidor**, e o seu aparelho, que fez o pedido, é o **cliente**. É a mesma relação de cliente e servidor que você viu no Módulo 4.
 
-Um servidor é um computador que fica ligado o tempo todo para atender pedidos de outros computadores, chamados de **clientes**. Por dentro, ele tem as mesmas peças que você viu no Módulo 3: processador, memória e armazenamento. A diferença está no uso: ele não tem alguém sentado na frente dele, e sim milhares de pessoas acessando ao mesmo tempo pela Internet.
+Por dentro, um servidor tem as mesmas peças de um computador comum: processador, memória e armazenamento. O que muda é o uso. Um computador pessoal atende uma pessoa por vez e pode ser desligado à noite. Um servidor fica ligado o tempo todo, sem tela nem teclado, atendendo milhares de pedidos ao mesmo tempo. Por isso ele costuma ter peças mais potentes e resistentes, feitas para funcionar sem parar durante anos.
 
 ## 2. Data centers
 
-Um serviço usado por milhões de pessoas precisa de muitos servidores. Eles ficam em **data centers**: prédios com milhares de servidores organizados em armários chamados *racks*.
+Um único servidor não dá conta de um serviço usado por milhões de pessoas, como o WhatsApp ou o YouTube. Esses serviços usam milhares de servidores, e eles ficam reunidos em **data centers**: prédios construídos só para abrigar servidores, organizados em armários de metal chamados *racks*.
 
 ![Servidores em racks em um data center da Wikimedia Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wikimedia_Foundation_Servers-8055_01.jpg/960px-Wikimedia_Foundation_Servers-8055_01.jpg)
 
 *Servidores da Wikimedia Foundation. Foto: Victor Grigas, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_01.jpg).*
 
-Um data center precisa de:
+Juntar tudo em um só lugar facilita cuidar das máquinas, mas cria exigências que um escritório comum não atende:
 
-- **Energia** sem interrupção, com geradores e baterias de reserva;
-- **Refrigeração**, porque os servidores esquentam muito;
-- **Conexão** rápida com a Internet;
-- **Segurança física**, com controle de quem entra no prédio.
+- **Energia sem interrupção.** Se a luz cair, o serviço sai do ar para todo mundo. Por isso há baterias e geradores que assumem em segundos.
+- **Refrigeração.** Milhares de máquinas ligadas produzem muito calor, e calor demais danifica as peças. Boa parte da energia de um data center vai para o ar-condicionado.
+- **Conexão rápida.** Todos os pedidos dos clientes chegam pela rede, então o prédio precisa de ligações de alta velocidade com a Internet.
+- **Segurança física.** Quem entra no prédio pode mexer nos dados de milhões de pessoas, por isso o acesso é controlado.
 
-Grandes empresas mantêm data centers em vários países. Se um deles falhar, outro continua atendendo.
+Grandes empresas mantêm data centers em vários países. Assim, se um prédio tiver um problema, outro assume o atendimento, e quem usa o serviço nem percebe.
 
 ## 3. Processamento e armazenamento remotos
 
-Pense em uma foto tirada no celular:
+Para entender a nuvem, é preciso separar duas tarefas de um computador: **guardar** informações (armazenamento) e **trabalhar** com elas (processamento). As duas podem acontecer no seu aparelho, que é o modo **local**, ou em um servidor de outra empresa, que é o modo **remoto**.
 
-- Se ela fica só na memória do aparelho, o armazenamento é **local**. Se o celular quebrar, a foto se perde.
-- Se ela é enviada para o Google Fotos ou o iCloud, ela também fica guardada em servidores de outra empresa. Esse armazenamento é **remoto**. Você consegue ver a foto em outro aparelho.
+Pense em uma foto tirada no celular. Se ela fica só na memória do aparelho, o armazenamento é local: você vê a foto mesmo sem Internet, mas, se o celular quebrar ou for roubado, ela se perde. Se a foto é enviada para o Google Fotos ou o iCloud, uma cópia fica guardada em servidores dessas empresas. Esse armazenamento é remoto: a foto continua existindo mesmo que você perca o celular, e você consegue vê-la em outro aparelho, mas depende de Internet e da empresa para acessá-la.
 
-O mesmo vale para o processamento. Quando você edita um documento no Google Docs, boa parte do trabalho acontece nos servidores do Google, e o seu aparelho mostra o resultado. Esse é o **processamento remoto**.
+O processamento segue a mesma lógica. Quando você pede uma rota no Google Maps, o seu celular não calcula o caminho sozinho: ele envia o pedido, os servidores do Google fazem o cálculo com dados de trânsito de milhões de pessoas, e o aparelho só mostra o resultado. Isso é **processamento remoto**. Ele permite que um celular simples faça tarefas que exigiriam um computador muito mais potente.
 
 ## 4. O que é computação em nuvem
 
-**Computação em nuvem** é usar processamento, armazenamento e programas de outra empresa pela Internet, sem precisar comprar e manter as máquinas.
+Antes da nuvem, uma empresa que quisesse ter um site ou um sistema precisava comprar os próprios servidores, montar uma sala para eles e contratar pessoas para mantê-los. Era caro, demorado e arriscado: se a empresa crescesse, faltavam máquinas; se as vendas caíssem, as máquinas ficavam paradas.
 
-O nome "nuvem" vem dos diagramas de rede, que usavam o desenho de uma nuvem para representar a Internet. A nuvem não é algo no céu: são servidores reais, dentro de data centers.
+A **computação em nuvem** muda isso. Em vez de comprar, a empresa usa servidores, armazenamento e programas de outra empresa, como a Amazon, o Google ou a Microsoft, pela Internet, e paga pelo que usar. É parecido com a energia elétrica: ninguém constrói uma usina em casa, todos se ligam à rede e pagam a conta do mês.
 
-Segundo o NIST, instituto de padrões dos Estados Unidos, a nuvem tem cinco características:
+O nome "nuvem" vem dos diagramas de redes, que usavam o desenho de uma nuvem para representar a Internet, ou seja, "algo lá fora que funciona sem você precisar ver como". Mas a nuvem não está no céu: são servidores reais, dentro de data centers como os da seção anterior.
+
+O NIST, instituto de padrões dos Estados Unidos, define a nuvem por cinco características:
 
 | Característica | O que significa |
 | --- | --- |
@@ -59,27 +60,23 @@ Segundo o NIST, instituto de padrões dos Estados Unidos, a nuvem tem cinco cara
 | Acesso pela rede | Você acessa de qualquer lugar, pelo celular ou pelo computador. |
 | Recursos compartilhados | As mesmas máquinas atendem muitos clientes ao mesmo tempo. |
 | Elasticidade | O recurso cresce quando a demanda aumenta e diminui quando ela cai. |
-| Serviço medido | Você paga pelo que usa, como na conta de luz. |
+| Serviço medido | O uso é medido, e você paga pelo que usou, como na conta de luz. |
 
-**Exemplo:** uma loja virtual vende pouco durante o ano e muito na Black Friday. Com servidores próprios, ela teria que comprar máquinas para o pico, que ficariam paradas no resto do ano. Na nuvem, ela aumenta os recursos só durante a Black Friday e paga apenas por esses dias.
+A elasticidade mostra bem a vantagem da nuvem. Uma loja virtual vende pouco durante o ano e muito na Black Friday. Com servidores próprios, ela teria que comprar máquinas suficientes para o dia de pico, e elas ficariam paradas no resto do ano. Na nuvem, ela aumenta os recursos só durante a Black Friday, reduz depois e paga apenas pelo que usou.
 
 ## 5. SaaS, PaaS e IaaS
 
-Os serviços em nuvem costumam ser divididos em três modelos. A diferença está em quanto a empresa fornecedora cuida e quanto fica com você.
+Nem todo serviço em nuvem entrega a mesma coisa. Às vezes você recebe um programa pronto, às vezes recebe só a máquina e precisa instalar tudo sozinho. Os serviços costumam ser divididos em três modelos, conforme **quanto a empresa fornecedora cuida e quanto fica com você**:
 
 | Modelo | O que você recebe | Exemplos |
 | --- | --- | --- |
 | **SaaS** — Software como Serviço | Um programa pronto para usar. | Gmail, Netflix, Google Docs |
-| **PaaS** — Plataforma como Serviço | Um lugar pronto para publicar o seu próprio programa. | Vercel, Heroku |
+| **PaaS** — Plataforma como Serviço | Um ambiente pronto para publicar o seu próprio programa. | Vercel, Heroku |
 | **IaaS** — Infraestrutura como Serviço | Uma máquina alugada, que você configura do zero. | AWS EC2, Google Compute Engine |
 
-Uma comparação com moradia ajuda:
+Uma comparação com moradia ajuda a fixar a diferença. **IaaS** é alugar um terreno com água e luz: você constrói a casa do jeito que quiser, mas toda a obra é sua. **PaaS** é alugar uma casa vazia: a estrutura está pronta, e você só traz os móveis, que aqui são o seu programa. **SaaS** é ficar em um hotel: tudo já está pronto, e você só usa.
 
-- **IaaS** é alugar um terreno: você constrói e mobília a casa.
-- **PaaS** é alugar uma casa vazia: você só traz os móveis.
-- **SaaS** é ficar em um hotel: tudo já está pronto, você só usa.
-
-Como usuário, você usa SaaS todos os dias. PaaS e IaaS são mais usados por quem desenvolve e mantém sistemas.
+Quanto mais pronto o serviço, menos trabalho e menos liberdade você tem. Por isso, como usuário, você usa SaaS todos os dias. PaaS e IaaS são usados por quem desenvolve e mantém sistemas: uma pessoa desenvolvedora pode publicar um site na Vercel (PaaS) em minutos, enquanto uma equipe que precisa controlar cada detalhe aluga máquinas na AWS (IaaS).
 
 ## Vídeo complementar
 

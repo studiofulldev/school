@@ -14,8 +14,8 @@ Apresentar conceitos e tecnologias presentes nas aplicações e nos serviços di
 | --- | --- | --- |
 | 1 | [Computação em nuvem](./aula-1-computacao-em-nuvem.md) | 40 min |
 | 2 | [Segurança digital](./aula-2-seguranca-digital.md) | 50 min |
-| 3 | Tecnologia além dos computadores tradicionais | -- min |
-| 4 | Aplicações contemporâneas | -- min |
+| 3 | [Tecnologia além dos computadores tradicionais](./aula-3-tecnologia-alem-dos-computadores-tradicionais.md) | 45 min |
+| 4 | [Aplicações contemporâneas](./aula-4-aplicacoes-contemporaneas.md) | 60 min |
 
 ## Aula 1 — Computação em nuvem
 
@@ -33,7 +33,7 @@ Apresentar conceitos e tecnologias presentes nas aplicações e nos serviços di
 
 ## Aula 2 — Segurança digital
 
-**Itens da ementa:** A tríade CID (Confidencialidade, Integridade, Disponibilidade); boas práticas básicas de segurança digital; pentesting; blue team; frameworks e conformidade a leis.
+**Itens da ementa:** tríade CID; autenticação; autorização; ameaças comuns e engenharia social; boas práticas básicas de segurança digital; introdução a pentest, red team e blue team; frameworks de segurança; proteção de dados e LGPD.
 
 **Ideias principais**
 
@@ -64,7 +64,7 @@ Apresentar conceitos e tecnologias presentes nas aplicações e nos serviços di
 
 ## Aula 4 — Aplicações contemporâneas
 
-**Itens da ementa:** aplicações Web; aplicações móveis; Inteligência Artificial; implicações para a privacidade.
+**Itens da ementa:** aplicações Web; aplicações móveis; Inteligência Artificial; coleta de dados e privacidade.
 
 **Ideias principais**
 
