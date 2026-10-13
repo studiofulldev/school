@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc"><title id="title">Mudanças na história da computação</title><desc id="desc">Cada etapa destaca uma possibilidade. Tecnologias de épocas diferentes coexistem. 1 REPRESENTAR E CALCULAR: Registros e instrumentos, Máquinas mecânicas, Pascalina: século XVII. 2 PROGRAMAR MÁQUINAS: Instruções para outras tarefas, Projetos de Babbage, Notas de Ada: 1843. 3 CALCULAR ELETRONICAMENTE: Circuitos com válvulas, Programa armazenado, ENIAC apresentado: 1946. 4 MINIATURIZAR CIRCUITOS: Transistor: 1947, Circuitos integrados, Equipamentos menores. 5 INTEGRAR PROCESSAMENTO: Microprocessadores, Funções reunidas em chips, Intel 4004: 1971. 6 AMPLIAR O ACESSO: Computadores pessoais, Casas e escritórios, Expansão nos anos 1970 e 1980</desc><defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#266080"/></marker></defs><rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#162a3a"><text x="60" y="70" font-size="44" font-weight="700">Mudanças na história da computação</text><text x="60" y="117" font-size="26">Cada etapa destaca uma possibilidade. Tecnologias de épocas diferentes coexistem.</text>
+<line x1="525" y1="290" x2="560" y2="290" stroke="#266080" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1035" y1="290" x2="1070" y2="290" stroke="#266080" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1310" y1="418" x2="1310" y2="462" stroke="#266080" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1070" y1="595" x2="1035" y2="595" stroke="#266080" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="560" y1="595" x2="525" y2="595" stroke="#266080" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="60" y="170" width="460" height="240" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="80" y="215" font-size="25" font-weight="700">1 REPRESENTAR E CALCULAR</text>
+<text x="80" y="258" font-size="28">Registros e instrumentos</text>
+<text x="80" y="300" font-size="28">Máquinas mecânicas</text>
+<text x="80" y="342" font-size="28">Pascalina: século XVII</text>
+<rect x="570" y="170" width="460" height="240" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="590" y="215" font-size="25" font-weight="700">2 PROGRAMAR MÁQUINAS</text>
+<text x="590" y="258" font-size="28">Instruções para outras tarefas</text>
+<text x="590" y="300" font-size="28">Projetos de Babbage</text>
+<text x="590" y="342" font-size="28">Notas de Ada: 1843</text>
+<rect x="1080" y="170" width="460" height="240" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="1100" y="215" font-size="25" font-weight="700">3 CALCULAR ELETRONICAMENTE</text>
+<text x="1100" y="258" font-size="28">Circuitos com válvulas</text>
+<text x="1100" y="300" font-size="28">Programa armazenado</text>
+<text x="1100" y="342" font-size="28">ENIAC apresentado: 1946</text>
+<rect x="1080" y="475" width="460" height="240" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="1100" y="520" font-size="25" font-weight="700">4 MINIATURIZAR CIRCUITOS</text>
+<text x="1100" y="563" font-size="28">Transistor: 1947</text>
+<text x="1100" y="605" font-size="28">Circuitos integrados</text>
+<text x="1100" y="647" font-size="28">Equipamentos menores</text>
+<rect x="570" y="475" width="460" height="240" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="590" y="520" font-size="25" font-weight="700">5 INTEGRAR PROCESSAMENTO</text>
+<text x="590" y="563" font-size="28">Microprocessadores</text>
+<text x="590" y="605" font-size="28">Funções reunidas em chips</text>
+<text x="590" y="647" font-size="28">Intel 4004: 1971</text>
+<rect x="60" y="475" width="460" height="240" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="80" y="520" font-size="25" font-weight="700">6 AMPLIAR O ACESSO</text>
+<text x="80" y="563" font-size="28">Computadores pessoais</text>
+<text x="80" y="605" font-size="28">Casas e escritórios</text>
+<text x="80" y="647" font-size="28">Expansão nos anos 1970 e 1980</text>
+<text x="60" y="818" font-size="25">Não há um único inventor de toda a computação. Datas são referências para compreender mudanças.</text>
+</g></svg>

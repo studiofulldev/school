@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8"><title>Aula 2 Problemas algoritmos e áreas de atuação</title><meta name="identifier" content="m1_02_problemas_algoritmos_e_areas"><meta name="editing_roles" content="teachers"><meta name="workflow_state" content="unpublished"><meta name="front_page" content="false"></head><body><div style="max-width:960px;font-family:Arial,sans-serif;line-height:1.65"><h1 id="aula-2-problemas-algoritmos-e-areas-de-atuacao">Aula 2 Problemas algoritmos e áreas de atuação</h1>
+<h2 id="o-que-e-um-problema-computacional">O que é um problema computacional</h2>
+<p>Um problema computacional é uma tarefa descrita de modo que possamos estudar sua solução por procedimentos. Para começar, precisamos saber quais dados entram e qual resultado esperamos.</p>
+<p>“Organizar melhor uma oficina” ainda é uma necessidade ampla. “Dada uma lista de inscrições e o número de vagas, identificar quem pode ocupar cada vaga” descreve uma tarefa mais precisa.</p>
+<p>É útil estabelecer também os limites. Uma pessoa pode se inscrever duas vezes? A ordem de chegada decide a vaga? O que acontece quando todas as vagas acabam? Essas condições orientam a solução.</p>
+<p>Nem todo problema é bem definido desde o início. Entender a situação e conversar com as pessoas envolvidas faz parte do trabalho. Uma solução tecnicamente correta pode atender à regra errada.</p>
+<h2 id="algoritmo">Algoritmo</h2>
+<p>Um <strong>algoritmo</strong> é uma sequência organizada de instruções para realizar uma tarefa. As instruções precisam ser suficientemente claras para quem vai executá-las.</p>
+<p>Você pode representar um algoritmo em linguagem natural, em um desenho ou em pseudocódigo. <strong>Pseudocódigo</strong> é uma descrição estruturada dos passos que não depende das regras de uma linguagem de programação específica.</p>
+<p>Um <strong>programa</strong> é uma implementação de instruções em uma forma executável por um sistema computacional. O algoritmo descreve a solução. O programa coloca essa solução em funcionamento em um ambiente concreto.</p>
+<p>Uma pessoa pode seguir um algoritmo com papel e lápis. Ao executar a tarefa em um computador, também precisamos escolher como representar os dados e como receber e apresentar resultados.</p>
+<h3 id="video-sobre-algoritmos">Vídeo sobre algoritmos</h3>
+<p><a href="https://www.youtube.com/watch?v=8mei6uVttho" target="_blank" rel="noopener noreferrer">Assistir a Introdução a Algoritmos, Curso de Algoritmos número 1</a></p>
+<p><strong>Responsável:</strong> Curso em Vídeo, Gustavo Guanabara. <strong>Duração:</strong> 14min08s. <strong>Idioma:</strong> português. <strong>Uso:</strong> complemento opcional.</p>
+<p>A aula introduz algoritmos com situações do cotidiano. Relacione a explicação à diferença entre descrever uma solução e implementá-la em um programa. Não é necessário seguir o restante do curso ou instalar uma ferramenta.</p>
+<p><strong>Depois de assistir:</strong> escreva quatro passos para uma tarefa cotidiana e identifique uma instrução que ficaria ambígua para outra pessoa.</p>
+<h2 id="exemplo-de-calculo">Exemplo de cálculo</h2>
+<p>Retome a compra de dois cadernos de R$ 12,00 e uma caneta de R$ 4,00. Uma sequência possível é:</p>
+<ol><li>Receber a quantidade e o preço de cada produto.</li><li>Verificar se as quantidades são inteiras e positivas e se os preços não são negativos.</li><li>Multiplicar a quantidade pelo preço de cada produto.</li><li>Somar os valores calculados.</li><li>Apresentar o total de R$ 28,00.</li></ol>
+<p>O segundo passo trata entradas inadequadas antes do cálculo. Se a quantidade for “dois” em um campo que aceita apenas números, o programa precisa interpretar o texto ou pedir uma correção.</p>
+<h2 id="decisao-e-repeticao">Decisão e repetição</h2>
+<p>Algoritmos podem incluir <strong>decisões</strong>. O próximo passo depende de uma condição. Se há vaga, uma inscrição pode ser confirmada. Se não há vaga, ela pode entrar em uma lista de espera.</p>
+<p>Também podem incluir <strong>repetições</strong>. Uma mesma operação é executada para cada item de uma lista. No caixa, o programa calcula o valor de cada produto antes de obter o total.</p>
+<p>Veja um pseudocódigo para uma inscrição individual:</p>
+<pre style="white-space:pre-wrap;background:#f1f5f9;padding:16px"><code>Receber o nome e a quantidade de vagas disponíveis
+Se o nome estiver vazio ou a quantidade de vagas for inválida
+    Solicitar a correção dos dados
+Senão, se houver pelo menos uma vaga
+    Confirmar a inscrição
+    Diminuir a quantidade de vagas disponíveis em uma unidade
+Senão
+    Registrar a pessoa na lista de espera
+Apresentar o resultado</code></pre>
+<p><img src="$IMS-CC-FILEBASE$/web_resources/imagens/02-algoritmo-de-inscricao.png" alt="Diagrama de inscrição que começa pela validação dos dados, confirma a inscrição quando há vaga e registra na lista de espera quando não há." style="max-width:100%;height:auto" loading="lazy" /></p>
+<p><strong>Descrição da imagem.</strong> Após receber e validar os dados, o sistema verifica a disponibilidade. Com vaga, confirma e reduz a quantidade disponível. Sem vaga, registra na lista de espera. Dados inválidos exigem correção antes da decisão.</p>
+<p>O exemplo deixa de fora problemas como duas inscrições simultâneas ou pedidos duplicados. Em um sistema real, a equipe precisa tratar essas situações. Uma representação introdutória ajuda a compreender a lógica sem esconder seus limites.</p>
+<h2 id="automatizacao">Automatização</h2>
+<p><strong>Automatizar</strong> é fazer um sistema executar tarefas com menor necessidade de intervenção manual a cada etapa. O envio de uma confirmação após uma inscrição é um exemplo.</p>
+<p>Automatização não garante correção. Se a regra permite inscrições repetidas, o sistema pode repetir o erro rapidamente. Por isso, precisamos definir regras, testar casos e acompanhar resultados.</p>
+<p>Uma automatização pode usar regras fixas, sem Inteligência Artificial. Comparar o número de inscritos com o número de vagas não exige um modelo de IA.</p>
+<h2 id="como-testar-uma-ideia">Como testar uma ideia</h2>
+<p>Antes de programar, simule os passos com alguns casos. Essa prática permite encontrar instruções ausentes ou ambíguas.</p>
+<div style="overflow-x:auto"><table style="border-collapse:collapse;width:100%"><thead><tr><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Caso</th><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Entrada</th><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Resultado esperado</th></tr></thead><tbody><tr><td style="border:1px solid #cbd5e1;padding:10px">Há vaga</td><td style="border:1px solid #cbd5e1;padding:10px">Nome preenchido e 2 vagas disponíveis</td><td style="border:1px solid #cbd5e1;padding:10px">Inscrição confirmada e 1 vaga restante</td></tr><tr><td style="border:1px solid #cbd5e1;padding:10px">Não há vaga</td><td style="border:1px solid #cbd5e1;padding:10px">Nome preenchido e 0 vagas disponíveis</td><td style="border:1px solid #cbd5e1;padding:10px">Registro na lista de espera</td></tr><tr><td style="border:1px solid #cbd5e1;padding:10px">Nome ausente</td><td style="border:1px solid #cbd5e1;padding:10px">Nome vazio e 2 vagas disponíveis</td><td style="border:1px solid #cbd5e1;padding:10px">Solicitação de correção</td></tr><tr><td style="border:1px solid #cbd5e1;padding:10px">Quantidade inválida</td><td style="border:1px solid #cbd5e1;padding:10px">Nome preenchido e -1 vaga disponível</td><td style="border:1px solid #cbd5e1;padding:10px">Solicitação de correção</td></tr></tbody></table></div>
+<p>Não basta testar o caso em que tudo funciona. Entradas vazias, limites e valores inesperados também fazem parte da tarefa.</p>
+<h2 id="ciencia-da-computacao-desenvolvimento-de-software-e-ti">Ciência da Computação Desenvolvimento de Software e TI</h2>
+<p>Essas áreas se relacionam, e suas fronteiras variam conforme a organização. A comparação abaixo mostra focos frequentes de trabalho.</p>
+<div style="overflow-x:auto"><table style="border-collapse:collapse;width:100%"><thead><tr><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Área</th><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Foco introdutório</th><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Exemplo na oficina</th></tr></thead><tbody><tr><td style="border:1px solid #cbd5e1;padding:10px">Ciência da Computação</td><td style="border:1px solid #cbd5e1;padding:10px">Estudar fundamentos, modelos de computação, algoritmos e suas propriedades</td><td style="border:1px solid #cbd5e1;padding:10px">Comparar métodos para ordenar muitas inscrições</td></tr><tr><td style="border:1px solid #cbd5e1;padding:10px">Desenvolvimento de Software</td><td style="border:1px solid #cbd5e1;padding:10px">Projetar, construir, testar e manter aplicações</td><td style="border:1px solid #cbd5e1;padding:10px">Criar o formulário e implementar as regras de inscrição</td></tr><tr><td style="border:1px solid #cbd5e1;padding:10px">Tecnologia da Informação</td><td style="border:1px solid #cbd5e1;padding:10px">Planejar, integrar, operar e proteger recursos e serviços tecnológicos</td><td style="border:1px solid #cbd5e1;padding:10px">Administrar acessos, conectividade, cópias de segurança e disponibilidade</td></tr></tbody></table></div>
+<p><img src="$IMS-CC-FILEBASE$/web_resources/imagens/03-areas-da-computacao.png" alt="Quadro com os focos de Ciência da Computação, Desenvolvimento de Software e Tecnologia da Informação aplicados a uma oficina." style="max-width:100%;height:auto" loading="lazy" /></p>
+<p><strong>Descrição da imagem.</strong> A Ciência da Computação investiga métodos. O Desenvolvimento de Software constrói a aplicação. A TI sustenta os serviços. Os trabalhos se conectam para atender às pessoas.</p>
+<p>Uma pessoa que desenvolve software também usa algoritmos e cuida de segurança. Profissionais de TI podem programar automatizações. O objetivo dessa distinção é ampliar sua visão, sem transformar os exemplos em divisões rígidas ou em uma lista de diplomas.</p>
+<h2 id="pratica-da-aula">Prática da aula</h2>
+<p>Escreva um algoritmo para organizar uma fila de atendimento por ordem de chegada. Considere uma pessoa por vez e use nomes fictícios.</p>
+<ol><li>Defina os dados de entrada e o resultado esperado.</li><li>Escreva entre cinco e oito passos.</li><li>Inclua o caso em que a fila está vazia.</li><li>Simule uma fila com três pessoas.</li><li>Identifique uma tarefa de desenvolvimento e uma tarefa de TI que ajudariam a colocar essa solução em uso.</li></ol>
+<p><strong>Você concluiu esta aula quando consegue</strong> transformar uma necessidade em uma tarefa definida, escrever passos claros e reconhecer que construir e operar uma solução envolve diferentes trabalhos.</p></div></body></html>
