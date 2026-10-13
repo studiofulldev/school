@@ -96,6 +96,10 @@ Pela LGPD, você tem direito, entre outros, a:
 
 Alguns dados exigem mais cuidado, os **dados sensíveis**: origem racial ou étnica, religião, opinião política, saúde, vida sexual, dados genéticos e biométricos. Quando há um vazamento que possa causar risco ou dano, a empresa deve avisar a **ANPD** (Autoridade Nacional de Proteção de Dados) e as pessoas afetadas.
 
+## Vídeo complementar
+
+- [Os Pilares da Segurança da Informação - Conheça o CID](https://www.youtube.com/watch?v=tc1vnk7t9kw) — Guia Anônima.
+
 ## Material complementar
 
 Fascículos da Cartilha de Segurança para Internet, do CERT.br:
