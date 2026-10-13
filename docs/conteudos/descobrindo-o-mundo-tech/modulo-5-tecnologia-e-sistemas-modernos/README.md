@@ -12,7 +12,7 @@ Apresentar conceitos e tecnologias presentes nas aplicações e nos serviços di
 
 | Aula | Tema | Duração estimada |
 | --- | --- | --- |
-| 1 | Computação em nuvem | -- min |
+| 1 | [Computação em nuvem](./aula-1-computacao-em-nuvem.md) | 40 min |
 | 2 | Segurança digital | -- min |
 | 3 | Tecnologia além dos computadores tradicionais | -- min |
 | 4 | Aplicações contemporâneas | -- min |
