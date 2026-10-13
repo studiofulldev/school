@@ -32,6 +32,10 @@ Links:
 - [Índice de ementas](./ementas/README.md)
 - [Descobrindo o Mundo Tech](./ementas/trilha-introdutoria-descobrindo-o-mundo-tech.md)
 
+### Conteúdos didáticos
+
+[Conteúdo do módulo 1 para o Canvas](./conteudos/modulo-1/README.md), com aulas, imagens, atividades e orientações de publicação.
+
 ### Arquitetura da documentação
 
 Utilização:

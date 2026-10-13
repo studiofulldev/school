@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc"><title id="title">Dispositivos redes e serviços</title><desc id="desc">Uma aplicação pode combinar processamento local e recursos remotos. DISPOSITIVOS: Smartphone ou computador, Programas e sensores, Processamento local. INTERNET: Interconexão de redes, Protocolos de comunicação, Transporte de dados. SERVIDORES FÍSICOS: Dados e serviços remotos, Documentos e mapas, Recursos em nuvem</desc><defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#266080"/></marker></defs><rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#162a3a"><text x="60" y="70" font-size="44" font-weight="700">Dispositivos redes e serviços</text><text x="60" y="117" font-size="26">Uma aplicação pode combinar processamento local e recursos remotos.</text>
+<line x1="480" y1="315" x2="580" y2="315" stroke="#266080" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="580" y1="360" x2="480" y2="360" stroke="#266080" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1020" y1="315" x2="1120" y2="315" stroke="#266080" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1120" y1="360" x2="1020" y2="360" stroke="#266080" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="60" y="195" width="410" height="270" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="80" y="240" font-size="25" font-weight="700">DISPOSITIVOS</text>
+<text x="80" y="283" font-size="28">Smartphone ou computador</text>
+<text x="80" y="325" font-size="28">Programas e sensores</text>
+<text x="80" y="367" font-size="28">Processamento local</text>
+<rect x="590" y="195" width="420" height="270" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="610" y="240" font-size="25" font-weight="700">INTERNET</text>
+<text x="610" y="283" font-size="28">Interconexão de redes</text>
+<text x="610" y="325" font-size="28">Protocolos de comunicação</text>
+<text x="610" y="367" font-size="28">Transporte de dados</text>
+<rect x="1130" y="195" width="410" height="270" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="1150" y="240" font-size="25" font-weight="700">SERVIDORES FÍSICOS</text>
+<text x="1150" y="283" font-size="28">Dados e serviços remotos</text>
+<text x="1150" y="325" font-size="28">Documentos e mapas</text>
+<text x="1150" y="367" font-size="28">Recursos em nuvem</text>
+<text x="60" y="638" font-size="25">Web é um serviço que usa a Internet. Uma aplicação online pode funcionar sem IA.</text>
+<text x="60" y="676" font-size="25">Nuvem descreve a oferta e o gerenciamento de recursos. Os equipamentos continuam físicos.</text>
+</g></svg>
