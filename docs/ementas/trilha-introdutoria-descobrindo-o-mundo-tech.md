@@ -289,10 +289,14 @@ Apresentar conceitos e tecnologias presentes nas aplicações e nos serviços di
 
 #### 2. Segurança digital
 
+- Tríade CID: confidencialidade, integridade e disponibilidade;
 - Autenticação;
 - Autorização;
-- Proteção de dados;
-- Boas práticas básicas de segurança digital.
+- Ameaças comuns e engenharia social;
+- Boas práticas básicas de segurança digital;
+- Introdução a pentest, red team e blue team;
+- Frameworks de segurança;
+- Proteção de dados e LGPD.
 
 #### 3. Tecnologia além dos computadores tradicionais
 
@@ -305,9 +309,8 @@ Apresentar conceitos e tecnologias presentes nas aplicações e nos serviços di
 
 - Aplicações Web;
 - Aplicações móveis;
-- Computação em nuvem;
 - Inteligência Artificial;
-- Internet das Coisas.
+- Coleta de dados e privacidade.
 
 ### Materiais Complementares
 
