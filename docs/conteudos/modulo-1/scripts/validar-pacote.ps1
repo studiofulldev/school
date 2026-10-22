@@ -30,7 +30,10 @@ try {
     }
     foreach ($entry in $pageEntries) {
         $html = Read-Entry $entry.FullName
-        if ($html -notmatch 'lang="pt-BR"' -or $html -notmatch 'name="workflow_state" content="unpublished"') { throw "Metadados ausentes: $($entry.FullName)" }
+        $isFrontPage = $entry.FullName -eq 'wiki_content/00-boas-vindas.html'
+        $expectedState = if ($isFrontPage) { 'active' } else { 'unpublished' }
+        $expectedFrontPage = if ($isFrontPage) { 'true' } else { 'false' }
+        if ($html -notmatch 'lang="pt-BR"' -or $html -notmatch "name=`"workflow_state`" content=`"$expectedState`"" -or $html -notmatch "name=`"front_page`" content=`"$expectedFrontPage`"") { throw "Metadados ausentes: $($entry.FullName)" }
         if ($html -match '<script|<iframe|data:|@@TOKEN|<!-- pagina:') { throw "Conteúdo inesperado: $($entry.FullName)" }
         foreach ($match in [regex]::Matches($html, '<img src="([^"]+)" alt="([^"]+)"')) {
             $imageName = $match.Groups[1].Value.Replace('$IMS-CC-FILEBASE$/', '')
@@ -49,6 +52,8 @@ try {
     foreach ($item in $moduleItems) {
         if ($item.identifierref -notin $ids -or $item.content_type -ne 'WikiPage') { throw 'Item de módulo inválido' }
     }
+    $welcome = Read-Entry 'wiki_content/00-boas-vindas.html'
+    if ($welcome -notmatch 'Índice do módulo' -or ([regex]::Matches($welcome, '\$WIKI_REFERENCE\$/pages/')).Count -ne 8) { throw 'Índice da página inicial incompleto' }
     $standalone = Get-Content -LiteralPath (Join-Path $moduleRoot 'modulo-1.html') -Raw -Encoding UTF8
     $videos = Get-Content -LiteralPath (Join-Path $PSScriptRoot 'videos-verificados.json') -Raw -Encoding UTF8 | ConvertFrom-Json
     $videoPages = @{
@@ -81,6 +86,6 @@ try {
     foreach ($match in [regex]::Matches($standalone, '<img src="([^"]+)"')) {
         if (-not (Test-Path -LiteralPath (Join-Path $moduleRoot $match.Groups[1].Value))) { throw 'Imagem local ausente' }
     }
-    $report = "Validacao local concluida: 9 paginas, 5 PNG, 8 videos em portugues nas paginas corretas, videos em ingles removidos, referencias internas resolvidas, XML legivel, gabarito excluido. Importacao real no Canvas nao executada."
+    $report = "Validacao local concluida: pagina inicial e indice, 9 paginas, 5 PNG, 8 videos em portugues nas paginas corretas, videos em ingles removidos, referencias internas resolvidas, XML legivel, gabarito excluido. Importacao real no Canvas nao executada."
     Write-Output $report
 } finally { $archive.Dispose() }

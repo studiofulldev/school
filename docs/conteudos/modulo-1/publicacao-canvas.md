@@ -2,22 +2,26 @@
 
 ## O que o pacote contém
 
-O arquivo **modulo-1-canvas.imscc** contém um módulo com nove páginas e cinco imagens PNG. A ordem é boas-vindas, quatro aulas, atividade integradora, verificação, aprofundamentos e glossário com referências.
+O arquivo **modulo-1-canvas.imscc** contém um módulo com nove páginas e cinco imagens PNG. A primeira página é a página inicial, com índice clicável; as demais são quatro aulas, atividade integradora, verificação, aprofundamentos e glossário com referências.
 
 O guia do educador e o gabarito não estão no pacote. As páginas já incluem os oito links da curadoria audiovisual junto dos assuntos correspondentes. Todos os vídeos têm áudio em português. As questões e a atividade entram como páginas, não como questionário e tarefa configurados. Não há MP4 no pacote.
 
-Páginas e módulo são marcados como não publicados nos metadados do pacote. Confira esse estado após importar, pois o comportamento final depende da instância. Não há alteração de datas ou configurações gerais do curso.
+O pacote marca a página inicial como publicada e como página principal do curso, pois o Canvas exige uma página publicada para essa função. O módulo e as outras oito páginas permanecem não publicados para revisão. Não há alteração de datas ou configurações gerais do curso.
 
-## Importar
+## Criar um curso novo e importar o módulo
 
-1. Abra o curso de destino no Canvas com permissão de edição.
-2. Acesse as configurações do curso e a opção de importar conteúdo. Os nomes podem variar conforme o idioma da interface.
-3. Selecione a importação de **Common Cartridge 1.x** e envie **modulo-1-canvas.imscc**.
-4. Importe todo o conteúdo deste pacote ou selecione seus itens, conforme o fluxo disponível.
-5. Aguarde a conclusão e confira eventuais mensagens da importação.
-6. Abra o módulo criado e verifique a sequência das nove páginas e o carregamento das cinco imagens.
+O arquivo `.imscc` é um pacote de **conteúdo**; ele não cria um curso no Canvas. Para manter o Módulo 1 separado do curso “Extensão”, crie primeiro um novo curso vazio e importe o pacote dentro dele.
 
-O Canvas documenta suporte a Common Cartridge 1.0, 1.1 e 1.2 no [guia de importação da Instructure](https://community.instructure.com/en/kb/articles/662748-unknown). Este pacote foi preparado com Common Cartridge 1.1 e metadados de módulo do Canvas. A importação não foi executada em uma instância do curso nesta entrega.
+1. No menu global do Canvas, abra **Cursos** → **Todos os cursos** e use **+ Curso** se essa opção estiver disponível. Dê ao curso o nome desejado e crie-o sem publicar.
+2. Se não houver opção para criar curso, solicite à equipe administradora do Canvas um novo curso vazio e peça para ser inscrito como professora/instrutora. Algumas instituições reservam essa ação aos administradores.
+3. Abra o curso novo — confira o nome no topo para não estar em “Extensão”. Acesse **Configurações** → **Importar conteúdo do curso**.
+4. Em **Tipo de conteúdo**, selecione **Pacote do Common Cartridge 1.x** e envie **modulo-1-canvas.imscc**.
+5. Selecione **Todo o conteúdo** e clique em **Importar**. Não marque opções de sobrescrita de avaliações ou ajuste de datas.
+6. Aguarde o trabalho terminar. Confira a página inicial, as nove páginas, a ordem do módulo e as cinco imagens.
+7. Se o Canvas não selecionar a página inicial automaticamente, em **Páginas** → **Ver todas as páginas**, use o menu da página **Módulo 1 — Introdução ao Mundo da Computação** e escolha **Usar como página inicial**. Depois, volte para **Página inicial** → **Escolher página inicial** → **Página inicial de páginas** e salve.
+8. O curso novo começa não publicado. Revise o conteúdo e publique o módulo e as páginas quando estiver pronto; publique o curso somente quando quiser disponibilizá-lo aos estudantes.
+
+O Canvas documenta suporte a Common Cartridge 1.0, 1.1 e 1.2 no [guia oficial](https://community.canvaslms.com/html/assets/Canvas_Basics_Guide.pdf). Este pacote foi preparado com Common Cartridge 1.1 e metadados de módulo do Canvas. A importação real depende da instância e das permissões da conta.
 
 ## Configurar interação e avaliação
 

@@ -1,54 +1,39 @@
 <!-- pagina: 00-boas-vindas -->
-# Módulo 1 Introdução ao Mundo da Computação
+# Módulo 1 — Introdução ao Mundo da Computação
 
-**Trilha Descobrindo o Mundo Tech | FullDev School**
+**Descobrindo o Mundo Tech · FullDev School**
 
-## Comece por aqui
+## Boas-vindas
 
-Quando você usa um mapa no celular, paga uma compra ou consulta uma informação, vários sistemas de computação participam dessa tarefa. Neste módulo, você vai entender o que esses sistemas fazem e como chegamos às tecnologias usadas no cotidiano.
+Quando você usa um mapa no celular, paga uma compra ou consulta uma informação, sistemas de computação ajudam a realizar essas tarefas. Neste módulo, você vai conhecer os conceitos básicos por trás delas e acompanhar como a computação chegou às tecnologias do cotidiano.
 
-A computação envolve representar informações e criar procedimentos para resolver problemas. Programar faz parte desse trabalho. Também precisamos compreender o problema, organizar dados, avaliar resultados e manter os sistemas funcionando.
+Você não precisa saber programar. O percurso começa com exemplos familiares e apresenta, passo a passo, como informações são representadas e como procedimentos resolvem problemas.
 
-Não é necessário saber programar. Os exemplos usam situações comuns, e as atividades podem ser feitas com papel e lápis. Você também pode registrar suas respostas em um editor de texto.
+## Índice do módulo
 
-## O que você vai aprender
+1. [Aula 1 — Computação e informação no cotidiano]($WIKI_REFERENCE$/pages/01-computacao-e-informacao)
+2. [Aula 2 — Problemas, algoritmos e áreas de atuação]($WIKI_REFERENCE$/pages/02-problemas-algoritmos-e-areas)
+3. [Aula 3 — Do cálculo às máquinas programáveis]($WIKI_REFERENCE$/pages/03-evolucao-das-maquinas)
+4. [Aula 4 — Internet, smartphones, nuvem e Inteligência Artificial]($WIKI_REFERENCE$/pages/04-computacao-conectada)
+5. [Atividade integradora — Um sistema do cotidiano]($WIKI_REFERENCE$/pages/05-atividade-integradora)
+6. [Verificação da aprendizagem]($WIKI_REFERENCE$/pages/06-verificacao-da-aprendizagem)
+7. [Aprofundamentos opcionais]($WIKI_REFERENCE$/pages/07-aprofundamentos-opcionais)
+8. [Glossário e referências]($WIKI_REFERENCE$/pages/08-glossario-e-referencias)
 
-Ao concluir o módulo, você deverá conseguir:
+## Seu percurso
 
-- Explicar o que é computação com um exemplo do cotidiano.
-- Identificar dados de entrada, processamento e resultados de uma tarefa.
-- Descrever um problema computacional e escrever uma sequência de passos para resolvê-lo.
-- Diferenciar, em nível introdutório, Ciência da Computação, Desenvolvimento de Software e Tecnologia da Informação.
-- Relacionar mudanças históricas ao surgimento de computadores pessoais, redes e dispositivos móveis.
-- Distinguir Internet, Web, computação em nuvem e Inteligência Artificial.
+As quatro aulas levam cerca de **40 minutos cada**. Reserve mais **20 minutos** para a atividade integradora e **15 minutos** para a verificação. O percurso principal dura aproximadamente **3 horas e 15 minutos**. Os vídeos em português e os aprofundamentos são complementares; todo o conteúdo necessário está nos textos.
 
-## Como estudar
-
-| Etapa | Tema | Tempo sugerido |
-| --- | --- | --- |
-| Aula 1 | Computação e informação no cotidiano | 40 minutos |
-| Aula 2 | Problemas, algoritmos e áreas de atuação | 40 minutos |
-| Aula 3 | Do cálculo às máquinas programáveis | 40 minutos |
-| Aula 4 | Computadores conectados, nuvem e IA | 40 minutos |
-| Atividade integradora | Analisar um sistema do cotidiano | 20 minutos |
-| Verificação da aprendizagem | Responder e revisar conceitos | 15 minutos |
-
-Leia os textos, observe os diagramas e responda às perguntas de pausa antes de avançar. Os vídeos selecionados aparecem junto dos assuntos que ajudam a explicar. Abra o link para assistir no canal do responsável e depois responda à pergunta de observação.
-
-Os oito vídeos selecionados têm áudio em português e são complementares. Não exigem cadastro em outro curso ou gravação pela equipe. O texto contém todos os conceitos necessários. Assistir a todos acrescenta cerca de 1 hora e 44 minutos ao tempo de estudo sugerido.
-
-Os aprofundamentos sobre personagens históricos, UNIX e linguagens de programação são opcionais. Não é necessário memorizá-los para concluir o módulo.
+Leia cada aula na ordem, observe os diagramas e responda às perguntas de pausa. Na atividade integradora, aplique os conceitos a um sistema do cotidiano. Ao final, retome suas respostas iniciais e observe o que aprendeu.
 
 ## Antes de começar
 
-Responda sem pesquisar. Este diagnóstico serve para você perceber o que já conhece.
+Responda sem pesquisar. Guarde suas respostas para compará-las com o que você saberá ao concluir o módulo.
 
 1. Em quais situações do seu dia existe computação?
 2. Um algoritmo precisa estar escrito em uma linguagem de programação?
 3. Qual é a diferença entre estar conectado à Internet e abrir uma página da Web?
 4. Quando alguém diz que um arquivo está na nuvem, onde você imagina que ele esteja?
-
-Guarde suas respostas. Ao final, volte a elas e reescreva o que mudou na sua compreensão.
 
 <!-- pagina: 01-computacao-e-informacao -->
 # Aula 1 Computação e informação no cotidiano

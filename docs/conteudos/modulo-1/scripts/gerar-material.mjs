@@ -78,8 +78,9 @@ const pages = [...source.matchAll(/<!-- pagina: ([a-z0-9-]+) -->\s*([\s\S]*?)(?=
   return { slug: match[1], source: match[2].trim(), title, id: `m1_${match[1].replaceAll('-', '_')}` };
 });
 if (pages.length !== 9 || new Set(pages.map(p => p.slug)).size !== 9) throw new Error('Esperadas nove páginas distintas');
-const toc = `<nav aria-label="Conteúdo do módulo"><p><strong>Conteúdo do módulo</strong></p><ol>${pages.map(p => `<li><a href="#${p.slug}">${esc(p.title)}</a></li>`).join('')}</ol></nav>`;
-write('modulo-1.html', `<!DOCTYPE html>\n<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Módulo 1 Introdução ao Mundo da Computação</title><style>${css}</style></head><body><main><h1>Módulo 1 Introdução ao Mundo da Computação</h1><p>Descobrindo o Mundo Tech · FullDev School</p>${toc}${pages.map(p => `<section id="${p.slug}">${markdown(p.source, 'imagens/', `${p.slug}-`, true)}</section>`).join('\n')}</main></body></html>`);
+const localPage = page => markdown(page.source, 'imagens/', `${page.slug}-`, true)
+  .replace(/href="\$WIKI_REFERENCE\$\/pages\/([^"]+)"/g, 'href="#$1"');
+write('modulo-1.html', `<!DOCTYPE html>\n<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Módulo 1 Introdução ao Mundo da Computação</title><style>${css}</style></head><body><main>${pages.map(p => `<section id="${p.slug}">${localPage(p)}</section>`).join('\n')}</main></body></html>`);
 
 const figures = [];
 const box = (x, y, w, h, title, lines, color = '#eaf2fa') => ({ x, y, w, h, title, lines, color });
@@ -116,7 +117,12 @@ for (const f of figures) {
 }
 
 for (const p of pages) {
-  write(`canvas/wiki_content/${p.slug}.html`, `<!DOCTYPE html>\n<html lang="pt-BR"><head><meta charset="utf-8"><title>${esc(p.title)}</title><meta name="identifier" content="${p.id}"><meta name="editing_roles" content="teachers"><meta name="workflow_state" content="unpublished"><meta name="front_page" content="false"></head><body><div style="max-width:960px;font-family:Arial,sans-serif;line-height:1.65">${markdown(p.source, '$IMS-CC-FILEBASE$/web_resources/imagens/')}</div></body></html>`);
+  const frontPage = p.slug === '00-boas-vindas';
+  const workflowState = frontPage ? 'active' : 'unpublished';
+  const pageStyle = frontPage
+    ? 'max-width:960px;margin:0 auto;font-family:Arial,sans-serif;line-height:1.7;color:#1e293b'
+    : 'max-width:960px;font-family:Arial,sans-serif;line-height:1.65';
+  write(`canvas/wiki_content/${p.slug}.html`, `<!DOCTYPE html>\n<html lang="pt-BR"><head><meta charset="utf-8"><title>${esc(p.title)}</title><meta name="identifier" content="${p.id}"><meta name="editing_roles" content="teachers"><meta name="workflow_state" content="${workflowState}"><meta name="front_page" content="${frontPage}"></head><body><div style="${pageStyle}">${markdown(p.source, '$IMS-CC-FILEBASE$/web_resources/imagens/')}</div></body></html>`);
 }
 const resources = pages.map(p => `<resource identifier="${p.id}" type="webcontent" href="wiki_content/${p.slug}.html"><file href="wiki_content/${p.slug}.html"/>${figures.filter(f => p.source.includes(`${f.name}.png`)).map(f => `<dependency identifierref="img_${f.name.replaceAll('-','_')}"/>`).join('')}</resource>`);
 for (const f of figures) resources.push(`<resource identifier="img_${f.name.replaceAll('-','_')}" type="webcontent" href="web_resources/imagens/${f.name}.png"><file href="web_resources/imagens/${f.name}.png"/></resource>`);

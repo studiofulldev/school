@@ -6,7 +6,7 @@ Material da trilha **Descobrindo o Mundo Tech**, do FullDev School, projeto dese
 
 - [Documento completo](./modulo-1.md). Texto editável de todas as aulas, atividades, aprofundamentos e referências.
 - [Documento em HTML](./modulo-1.html). Versão para leitura no navegador, com imagens e navegação.
-- [Pacote para o Canvas LMS](./modulo-1-canvas.imscc). Aulas e imagens organizadas em um módulo, em formato Common Cartridge 1.1.
+- [Pacote para o Canvas LMS](./modulo-1-canvas.imscc). Página inicial com índice clicável, aulas e imagens organizadas em um módulo, em formato Common Cartridge 1.1.
 - [Orientações de publicação](./publicacao-canvas.md). Importação, configuração das atividades e revisão antes de publicar.
 - [Guia do educador](./guia-do-educador.md). Respostas, comentários, critérios de avaliação e orientação de mediação. **Não importar para a área dos estudantes.**
 - [Curadoria de vídeos](./curadoria-de-videos.md). Oito vídeos com áudio em português selecionados e já colocados junto dos conteúdos, com links originais, duração e idioma.
@@ -16,6 +16,8 @@ Material da trilha **Descobrindo o Mundo Tech**, do FullDev School, projeto dese
 ## Organização pedagógica
 
 O percurso principal tem quatro aulas de cerca de 40 minutos, uma atividade integradora de 20 minutos e uma verificação de 15 minutos. A estimativa total é de **3 horas e 15 minutos**. O tempo é uma proposta de estudo, não uma carga horária oficial aprovada. A leitura complementar é opcional e não condiciona a conclusão.
+
+A página **Módulo 1 — Introdução ao Mundo da Computação** é a página inicial do pacote e traz links para as oito páginas do percurso. Ela é marcada como página principal no Canvas; depois da importação, pode ser necessário escolher o layout **Página inicial de páginas** nas configurações da página inicial do curso.
 
 As páginas contêm o conteúdo necessário para estudar sem assistir a vídeos. Os oito vídeos com áudio em português selecionados já aparecem junto dos assuntos correspondentes, inclusive nas páginas do pacote. Assistir a todos acrescenta cerca de 1 hora e 44 minutos de estudo opcional. Não há gravação pela equipe.
 
