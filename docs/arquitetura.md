@@ -20,6 +20,11 @@ O objetivo da arquitetura é manter atas, ementas, documentação acadêmica, te
 │   ├── ementas/
 │   │   ├── README.md
 │   │   └── nome-da-trilha.md
+│   ├── conteudos/
+│   │   └── modulo-1/
+│   │       ├── README.md
+│   │       ├── modulo-1.md
+│   │       └── modulo-1-canvas.imscc
 │   └── projeto-academico/
 │       ├── README.md
 │       ├── 01-documentacao-de-contexto.md
@@ -38,6 +43,7 @@ O objetivo da arquitetura é manter atas, ementas, documentação acadêmica, te
 | `docs/arquitetura.md` | Explica a organização dos arquivos e os critérios para criação de novos documentos. |
 | `docs/atas/` | Registros de reuniões, decisões, participantes e encaminhamentos. |
 | `docs/ementas/` | Ementas das trilhas formativas e seus índices pedagógicos. |
+| `docs/conteudos/` | Aulas, imagens, atividades e arquivos de publicação organizados por módulo. |
 | `docs/projeto-academico/` | Documentação acadêmica migrada do repositório da disciplina, incluindo contexto, especificação, metodologia, interface, arquitetura, testes, apresentação e referências. |
 | `templates/` | Modelos reutilizáveis para criação de novos documentos. |
 
@@ -46,6 +52,7 @@ O objetivo da arquitetura é manter atas, ementas, documentação acadêmica, te
 - Atas devem ficar em `docs/atas/AAAA/MM/`.
 - Documentos acadêmicos da disciplina devem ficar em `docs/projeto-academico/`.
 - Ementas devem ficar em `docs/ementas/`.
+- Conteúdos didáticos devem ficar em `docs/conteudos/modulo-N/`, com índice próprio e orientações de publicação.
 - Templates devem ficar em `templates/`.
 - Documentos de navegação e referência geral devem ficar diretamente em `docs/`.
 - Links para documentos importantes devem ser adicionados ao `README.md` e ao índice da pasta correspondente.

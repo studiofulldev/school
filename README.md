@@ -27,6 +27,7 @@ A documentacao sobre participantes esta em [docs/participantes.md](./docs/partic
 - [Atas das reuniões](./docs/atas/README.md)
 - [Ementas](./docs/ementas/README.md)
 - [Descobrindo o Mundo Tech](./docs/ementas/trilha-introdutoria-descobrindo-o-mundo-tech.md)
+- [Material do módulo 1 para o Canvas](./docs/conteudos/modulo-1/README.md)
 - [Primeira ata — Reunião inicial de 03/09/2026](./docs/atas/2026/09/2026-09-03-reuniao-inicial.md)
 - [Onde encontrar cada coisa](./docs/onde-encontrar.md)
 - [Arquitetura da documentação](./docs/arquitetura.md)

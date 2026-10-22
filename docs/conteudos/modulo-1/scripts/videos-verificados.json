@@ -1,0 +1,146 @@
+[
+  {
+    "id": "xajcV4lwY3Q",
+    "url": "https://www.youtube.com/watch?v=xajcV4lwY3Q",
+    "title": "Os COMPUTADORES eram PESSOAS! #SagaDosComputadores Ep.1",
+    "author": "Manual do Mundo",
+    "duration_seconds": 1248,
+    "playability": "OK",
+    "portuguese_captions": [
+      {
+        "language": "pt",
+        "automatic": true
+      }
+    ],
+    "translatable": true,
+    "checked_at": "2026-10-13",
+    "audio_language": "pt",
+    "audio_language_evidence": "Original Portuguese audio, publication description and Portuguese speech captions on the original channel."
+  },
+  {
+    "id": "uQPiyxoCk9E",
+    "url": "https://www.youtube.com/watch?v=uQPiyxoCk9E",
+    "title": "A REVOLUÇÃO ELÉTRICA #SagaDosComputadores Ep.2",
+    "author": "Manual do Mundo",
+    "duration_seconds": 958,
+    "playability": "OK",
+    "portuguese_captions": [
+      {
+        "language": "pt",
+        "automatic": true
+      }
+    ],
+    "translatable": true,
+    "checked_at": "2026-10-13",
+    "audio_language": "pt",
+    "audio_language_evidence": "Original Portuguese audio, publication description and Portuguese speech captions on the original channel."
+  },
+  {
+    "id": "8mei6uVttho",
+    "url": "https://www.youtube.com/watch?v=8mei6uVttho",
+    "title": "Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara",
+    "author": "Curso em Vídeo",
+    "duration_seconds": 848,
+    "playability": "OK",
+    "portuguese_captions": [
+      {
+        "language": "pt",
+        "automatic": false
+      },
+      {
+        "language": "pt",
+        "automatic": true
+      }
+    ],
+    "translatable": true,
+    "checked_at": "2026-10-13",
+    "audio_language": "pt",
+    "audio_language_evidence": "Original Portuguese audio, publication description and Portuguese speech captions on the original channel."
+  },
+  {
+    "id": "22nd99SLgNA",
+    "url": "https://www.youtube.com/watch?v=22nd99SLgNA",
+    "title": "Como funcionam as LINGUAGENS de PROGRAMAÇÃO #SagaDosComputadores Ep. 8",
+    "author": "Manual do Mundo",
+    "duration_seconds": 1083,
+    "playability": "OK",
+    "portuguese_captions": [
+      {
+        "language": "pt",
+        "automatic": true
+      }
+    ],
+    "translatable": true,
+    "checked_at": "2026-10-13",
+    "audio_language": "pt",
+    "audio_language_evidence": "Original Portuguese audio, publication description and Portuguese speech captions on the original channel."
+  },
+  {
+    "id": "Y7zvYG4NAxg",
+    "url": "https://www.youtube.com/watch?v=Y7zvYG4NAxg",
+    "title": "Hardware e Software | Desvendando as Diferenças Fundamentais",
+    "author": "Canal TI",
+    "duration_seconds": 140,
+    "playability": "OK",
+    "audio_language": "pt",
+    "audio_language_evidence": "Original Portuguese audio, publication description and Portuguese speech captions on the original channel.",
+    "portuguese_captions": [
+      {
+        "language": "pt",
+        "automatic": true
+      }
+    ],
+    "checked_at": "2026-10-13"
+  },
+  {
+    "id": "nlO5hySqJFA",
+    "url": "https://www.youtube.com/watch?v=nlO5hySqJFA",
+    "title": "Como a Internet funciona? - @Curso em Vídeo HTML5 e CSS3",
+    "author": "Curso em Vídeo",
+    "duration_seconds": 1335,
+    "playability": "OK",
+    "audio_language": "pt",
+    "audio_language_evidence": "Original Portuguese audio, publication description and Portuguese speech captions on the original channel.",
+    "portuguese_captions": [
+      {
+        "language": "pt",
+        "automatic": true
+      }
+    ],
+    "checked_at": "2026-10-13"
+  },
+  {
+    "id": "OFIVUTmc2cs",
+    "url": "https://www.youtube.com/watch?v=OFIVUTmc2cs",
+    "title": "O que é computação em nuvem com a AWS (português do Brasil)",
+    "author": "Amazon Web Services",
+    "duration_seconds": 166,
+    "playability": "OK",
+    "audio_language": "pt",
+    "audio_language_evidence": "Original Portuguese audio, publication description and Portuguese speech captions on the original channel.",
+    "portuguese_captions": [
+      {
+        "language": "pt",
+        "automatic": true
+      }
+    ],
+    "checked_at": "2026-10-13"
+  },
+  {
+    "id": "qDmojpkd8rE",
+    "url": "https://www.youtube.com/watch?v=qDmojpkd8rE",
+    "title": "O que é Machine Learning (Aprendizado de Máquina)?",
+    "author": "Didática Tech",
+    "duration_seconds": 464,
+    "playability": "OK",
+    "audio_language": "pt",
+    "audio_language_evidence": "Original Portuguese audio, publication description and Portuguese speech captions on the original channel.",
+    "portuguese_captions": [
+      {
+        "language": "pt",
+        "automatic": true
+      }
+    ],
+    "checked_at": "2026-10-13"
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "name": "01-fluxo-da-informacao",
+    "width": 1600,
+    "height": 660,
+    "title": "Como uma compra vira informação",
+    "subtitle": "O mesmo problema pode ser descrito por dados, operações e resultados.",
+    "boxes": [
+      {
+        "x": 60,
+        "y": 190,
+        "w": 330,
+        "h": 245,
+        "title": "ENTRADA",
+        "lines": [
+          "2 cadernos × R$ 12,00",
+          "1 caneta × R$ 4,00"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 445,
+        "y": 190,
+        "w": 330,
+        "h": 245,
+        "title": "PROCESSAMENTO",
+        "lines": [
+          "Multiplicar e somar",
+          "2 × 12 + 4"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 830,
+        "y": 190,
+        "w": 330,
+        "h": 245,
+        "title": "SAÍDA",
+        "lines": [
+          "Total da compra",
+          "R$ 28,00"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 1215,
+        "y": 190,
+        "w": 325,
+        "h": 245,
+        "title": "ARMAZENAMENTO",
+        "lines": [
+          "Guardar o registro",
+          "Consultar depois"
+        ],
+        "color": "#eaf2fa"
+      }
+    ],
+    "arrows": [
+      {
+        "x1": 395,
+        "y1": 312,
+        "x2": 435,
+        "y2": 312
+      },
+      {
+        "x1": 780,
+        "y1": 312,
+        "x2": 820,
+        "y2": 312
+      },
+      {
+        "x1": 1165,
+        "y1": 312,
+        "x2": 1205,
+        "y2": 312
+      }
+    ],
+    "notes": [
+      "Sequência didática. Sistemas reais podem consultar e armazenar dados em diferentes etapas."
+    ]
+  },
+  {
+    "name": "02-algoritmo-de-inscricao",
+    "width": 1600,
+    "height": 1060,
+    "title": "Um algoritmo para inscrições",
+    "subtitle": "Validar os dados e atualizar a disponibilidade evita confirmações incorretas.",
+    "boxes": [
+      {
+        "x": 570,
+        "y": 150,
+        "w": 460,
+        "h": 115,
+        "title": "RECEBER",
+        "lines": [
+          "Nome e vagas disponíveis"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 570,
+        "y": 320,
+        "w": 460,
+        "h": 115,
+        "title": "VALIDAR",
+        "lines": [
+          "Os dados são válidos?"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 60,
+        "y": 490,
+        "w": 410,
+        "h": 140,
+        "title": "SE NÃO",
+        "lines": [
+          "Solicitar correção",
+          "Antes de continuar"
+        ],
+        "color": "#fff3df"
+      },
+      {
+        "x": 570,
+        "y": 490,
+        "w": 460,
+        "h": 140,
+        "title": "SE SIM",
+        "lines": [
+          "Verificar se há vaga"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 180,
+        "y": 730,
+        "w": 490,
+        "h": 190,
+        "title": "COM VAGA",
+        "lines": [
+          "Confirmar a inscrição",
+          "Diminuir vagas em 1"
+        ],
+        "color": "#e4f3ed"
+      },
+      {
+        "x": 920,
+        "y": 730,
+        "w": 490,
+        "h": 190,
+        "title": "SEM VAGA",
+        "lines": [
+          "Registrar na lista de espera",
+          "Manter vagas em 0"
+        ],
+        "color": "#fff3df"
+      }
+    ],
+    "arrows": [
+      {
+        "x1": 800,
+        "y1": 267,
+        "x2": 800,
+        "y2": 306
+      },
+      {
+        "x1": 570,
+        "y1": 375,
+        "x2": 267,
+        "y2": 479
+      },
+      {
+        "x1": 800,
+        "y1": 438,
+        "x2": 800,
+        "y2": 478
+      },
+      {
+        "x1": 715,
+        "y1": 635,
+        "x2": 427,
+        "y2": 715
+      },
+      {
+        "x1": 890,
+        "y1": 635,
+        "x2": 1165,
+        "y2": 715
+      }
+    ],
+    "notes": [
+      "Exemplo com inscrições válidas feitas uma de cada vez. Pedidos simultâneos exigem outras regras."
+    ]
+  },
+  {
+    "name": "03-areas-da-computacao",
+    "width": 1600,
+    "height": 720,
+    "title": "Trabalhos que se conectam",
+    "subtitle": "Focos frequentes. As áreas se sobrepõem e os nomes variam entre organizações.",
+    "boxes": [
+      {
+        "x": 60,
+        "y": 190,
+        "w": 460,
+        "h": 330,
+        "title": "CIÊNCIA DA COMPUTAÇÃO",
+        "lines": [
+          "Investigar métodos",
+          "Estudar algoritmos",
+          "Exemplo: comparar maneiras",
+          "de ordenar inscrições"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 570,
+        "y": 190,
+        "w": 460,
+        "h": 330,
+        "title": "DESENVOLVIMENTO",
+        "lines": [
+          "Construir a aplicação",
+          "Testar e manter programas",
+          "Exemplo: implementar",
+          "o formulário da oficina"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 1080,
+        "y": 190,
+        "w": 460,
+        "h": 330,
+        "title": "TECNOLOGIA DA INFORMAÇÃO",
+        "lines": [
+          "Sustentar os serviços",
+          "Administrar acesso e recursos",
+          "Exemplo: garantir conexão",
+          "e cópias de segurança"
+        ],
+        "color": "#eaf2fa"
+      }
+    ],
+    "arrows": [],
+    "notes": [
+      "Uma solução exige compreender o problema, construir o sistema e cuidar de seu funcionamento."
+    ]
+  },
+  {
+    "name": "04-evolucao-da-computacao",
+    "width": 1600,
+    "height": 900,
+    "title": "Mudanças na história da computação",
+    "subtitle": "Cada etapa destaca uma possibilidade. Tecnologias de épocas diferentes coexistem.",
+    "boxes": [
+      {
+        "x": 60,
+        "y": 170,
+        "w": 460,
+        "h": 240,
+        "title": "1 REPRESENTAR E CALCULAR",
+        "lines": [
+          "Registros e instrumentos",
+          "Máquinas mecânicas",
+          "Pascalina: século XVII"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 570,
+        "y": 170,
+        "w": 460,
+        "h": 240,
+        "title": "2 PROGRAMAR MÁQUINAS",
+        "lines": [
+          "Instruções para outras tarefas",
+          "Projetos de Babbage",
+          "Notas de Ada: 1843"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 1080,
+        "y": 170,
+        "w": 460,
+        "h": 240,
+        "title": "3 CALCULAR ELETRONICAMENTE",
+        "lines": [
+          "Circuitos com válvulas",
+          "Programa armazenado",
+          "ENIAC apresentado: 1946"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 1080,
+        "y": 475,
+        "w": 460,
+        "h": 240,
+        "title": "4 MINIATURIZAR CIRCUITOS",
+        "lines": [
+          "Transistor: 1947",
+          "Circuitos integrados",
+          "Equipamentos menores"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 570,
+        "y": 475,
+        "w": 460,
+        "h": 240,
+        "title": "5 INTEGRAR PROCESSAMENTO",
+        "lines": [
+          "Microprocessadores",
+          "Funções reunidas em chips",
+          "Intel 4004: 1971"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 60,
+        "y": 475,
+        "w": 460,
+        "h": 240,
+        "title": "6 AMPLIAR O ACESSO",
+        "lines": [
+          "Computadores pessoais",
+          "Casas e escritórios",
+          "Expansão nos anos 1970 e 1980"
+        ],
+        "color": "#eaf2fa"
+      }
+    ],
+    "arrows": [
+      {
+        "x1": 525,
+        "y1": 290,
+        "x2": 560,
+        "y2": 290
+      },
+      {
+        "x1": 1035,
+        "y1": 290,
+        "x2": 1070,
+        "y2": 290
+      },
+      {
+        "x1": 1310,
+        "y1": 418,
+        "x2": 1310,
+        "y2": 462
+      },
+      {
+        "x1": 1070,
+        "y1": 595,
+        "x2": 1035,
+        "y2": 595
+      },
+      {
+        "x1": 560,
+        "y1": 595,
+        "x2": 525,
+        "y2": 595
+      }
+    ],
+    "notes": [
+      "Não há um único inventor de toda a computação. Datas são referências para compreender mudanças."
+    ]
+  },
+  {
+    "name": "05-dispositivos-internet-e-servicos",
+    "width": 1600,
+    "height": 720,
+    "title": "Dispositivos redes e serviços",
+    "subtitle": "Uma aplicação pode combinar processamento local e recursos remotos.",
+    "boxes": [
+      {
+        "x": 60,
+        "y": 195,
+        "w": 410,
+        "h": 270,
+        "title": "DISPOSITIVOS",
+        "lines": [
+          "Smartphone ou computador",
+          "Programas e sensores",
+          "Processamento local"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 590,
+        "y": 195,
+        "w": 420,
+        "h": 270,
+        "title": "INTERNET",
+        "lines": [
+          "Interconexão de redes",
+          "Protocolos de comunicação",
+          "Transporte de dados"
+        ],
+        "color": "#eaf2fa"
+      },
+      {
+        "x": 1130,
+        "y": 195,
+        "w": 410,
+        "h": 270,
+        "title": "SERVIDORES FÍSICOS",
+        "lines": [
+          "Dados e serviços remotos",
+          "Documentos e mapas",
+          "Recursos em nuvem"
+        ],
+        "color": "#eaf2fa"
+      }
+    ],
+    "arrows": [
+      {
+        "x1": 480,
+        "y1": 315,
+        "x2": 580,
+        "y2": 315
+      },
+      {
+        "x1": 580,
+        "y1": 360,
+        "x2": 480,
+        "y2": 360
+      },
+      {
+        "x1": 1020,
+        "y1": 315,
+        "x2": 1120,
+        "y2": 315
+      },
+      {
+        "x1": 1120,
+        "y1": 360,
+        "x2": 1020,
+        "y2": 360
+      }
+    ],
+    "notes": [
+      "Web é um serviço que usa a Internet. Uma aplicação online pode funcionar sem IA.",
+      "Nuvem descreve a oferta e o gerenciamento de recursos. Os equipamentos continuam físicos."
+    ]
+  }
+]

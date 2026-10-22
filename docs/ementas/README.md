@@ -15,6 +15,7 @@ docs/ementas/nome-da-trilha.md
 ## Ementas disponíveis
 
 - [Descobrindo o Mundo Tech](./trilha-introdutoria-descobrindo-o-mundo-tech.md)
+- [Conteúdo do módulo 1 e pacote para o Canvas](../conteudos/modulo-1/README.md)
 
 ## Como adicionar uma nova ementa
 

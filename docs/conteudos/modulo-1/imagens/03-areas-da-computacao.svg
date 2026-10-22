@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="720" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc"><title id="title">Trabalhos que se conectam</title><desc id="desc">Focos frequentes. As áreas se sobrepõem e os nomes variam entre organizações. CIÊNCIA DA COMPUTAÇÃO: Investigar métodos, Estudar algoritmos, Exemplo: comparar maneiras, de ordenar inscrições. DESENVOLVIMENTO: Construir a aplicação, Testar e manter programas, Exemplo: implementar, o formulário da oficina. TECNOLOGIA DA INFORMAÇÃO: Sustentar os serviços, Administrar acesso e recursos, Exemplo: garantir conexão, e cópias de segurança</desc><defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 Z" fill="#266080"/></marker></defs><rect width="100%" height="100%" fill="#ffffff"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#162a3a"><text x="60" y="70" font-size="44" font-weight="700">Trabalhos que se conectam</text><text x="60" y="117" font-size="26">Focos frequentes. As áreas se sobrepõem e os nomes variam entre organizações.</text>
+<rect x="60" y="190" width="460" height="330" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="80" y="235" font-size="25" font-weight="700">CIÊNCIA DA COMPUTAÇÃO</text>
+<text x="80" y="278" font-size="28">Investigar métodos</text>
+<text x="80" y="320" font-size="28">Estudar algoritmos</text>
+<text x="80" y="362" font-size="28">Exemplo: comparar maneiras</text>
+<text x="80" y="404" font-size="28">de ordenar inscrições</text>
+<rect x="570" y="190" width="460" height="330" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="590" y="235" font-size="25" font-weight="700">DESENVOLVIMENTO</text>
+<text x="590" y="278" font-size="28">Construir a aplicação</text>
+<text x="590" y="320" font-size="28">Testar e manter programas</text>
+<text x="590" y="362" font-size="28">Exemplo: implementar</text>
+<text x="590" y="404" font-size="28">o formulário da oficina</text>
+<rect x="1080" y="190" width="460" height="330" rx="10" fill="#eaf2fa" stroke="#b6ccda" stroke-width="2"/>
+<text x="1100" y="235" font-size="25" font-weight="700">TECNOLOGIA DA INFORMAÇÃO</text>
+<text x="1100" y="278" font-size="28">Sustentar os serviços</text>
+<text x="1100" y="320" font-size="28">Administrar acesso e recursos</text>
+<text x="1100" y="362" font-size="28">Exemplo: garantir conexão</text>
+<text x="1100" y="404" font-size="28">e cópias de segurança</text>
+<text x="60" y="638" font-size="25">Uma solução exige compreender o problema, construir o sistema e cuidar de seu funcionamento.</text>
+</g></svg>
