@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8"><title>Aula 2 — Descrever algoritmos</title><meta name="identifier" content="m2_02_descrever_algoritmos"><meta name="editing_roles" content="teachers"><meta name="workflow_state" content="unpublished"><meta name="front_page" content="false"></head><body><div style="max-width:960px;font-family:Arial,sans-serif;line-height:1.65"><h1 id="aula-2-descrever-algoritmos">Aula 2 — Descrever algoritmos</h1>
+<h2 id="uma-sequencia-precisa">Uma sequência precisa</h2>
+<p>Um <strong>algoritmo</strong> organiza instruções para realizar uma tarefa. “Verificar se está tudo certo” é vago. Uma instrução melhor é “se o identificador estiver vazio, solicitar correção e não reduzir vagas”.</p>
+<p><strong>Pseudocódigo</strong> comunica a lógica sem obedecer à sintaxe de uma linguagem específica:</p>
+<pre style="white-space:pre-wrap;background:#f1f5f9;padding:16px"><code>Receber identificador
+Se identificador estiver vazio
+    Informar que é preciso corrigir
+Senão, se vagas restantes forem maiores que zero
+    Confirmar a inscrição
+    Diminuir vagas restantes em uma unidade
+Senão
+    Adicionar à lista de espera
+Informar o resultado</code></pre>
+<p>A indentação mostra quais instruções pertencem a cada caminho. Uma implementação precisará detalhar como guardar e apresentar os dados.</p>
+<h2 id="fluxograma">Fluxograma</h2>
+<p>O fluxograma desenha caminhos de uma solução. Aqui está a mesma lógica em texto, acessível também sem imagem:</p>
+<div style="overflow-x:auto"><table style="border-collapse:collapse;width:100%"><thead><tr><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Pergunta</th><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Se verdadeiro</th><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Se falso</th></tr></thead><tbody><tr><td style="border:1px solid #cbd5e1;padding:10px">Identificador está vazio?</td><td style="border:1px solid #cbd5e1;padding:10px">Pedir correção; encerrar tentativa</td><td style="border:1px solid #cbd5e1;padding:10px">Verificar vagas</td></tr><tr><td style="border:1px solid #cbd5e1;padding:10px">Vagas restantes &gt; 0?</td><td style="border:1px solid #cbd5e1;padding:10px">Confirmar; reduzir vagas em 1</td><td style="border:1px solid #cbd5e1;padding:10px">Registrar espera</td></tr></tbody></table></div>
+<p>No desenho convencional, início e fim são ovais, ações são retângulos, perguntas são losangos e setas mostram a direção. O símbolo só ajuda quando os caminhos são claros.</p>
+<h2 id="seguir-a-execucao">Seguir a execução</h2>
+<p>Comece com uma vaga. Ana chega com identificador preenchido: é confirmada e deixa zero vagas. Beto chega depois: entra na espera. Um identificador vazio não ocupa vaga nem entra na espera até ser corrigido.</p>
+<h2 id="pratica-de-pausa">Prática de pausa</h2>
+<p>Escreva os passos para calcular o total de uma compra com quantidade e preço unitário. O que fazer se a quantidade for negativa? Represente a pergunta e os dois caminhos.</p></div></body></html>

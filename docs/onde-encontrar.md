@@ -34,7 +34,8 @@ Links:
 
 ### Conteúdos didáticos
 
-[Conteúdo do módulo 1 para o Canvas](./conteudos/modulo-1/README.md), com aulas, imagens, atividades e orientações de publicação.
+- [Módulo 1 para o Canvas](./conteudos/modulo-1/README.md), com aulas, imagens, atividades e orientações de publicação.
+- [Módulo 2 para o Canvas](./conteudos/modulo-2/README.md), com lógica, pseudocódigo, testes, atividades e pacote de importação.
 
 ### Arquitetura da documentação
 

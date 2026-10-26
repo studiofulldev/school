@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8"><title>Aula 4 — Variáveis e repetição</title><meta name="identifier" content="m2_04_variaveis_e_repeticao"><meta name="editing_roles" content="teachers"><meta name="workflow_state" content="unpublished"><meta name="front_page" content="false"></head><body><div style="max-width:960px;font-family:Arial,sans-serif;line-height:1.65"><h1 id="aula-4-variaveis-e-repeticao">Aula 4 — Variáveis e repetição</h1>
+<h2 id="valores-que-mudam">Valores que mudam</h2>
+<p>Uma <strong>variável</strong> associa um nome a um valor durante a execução. “vagas_restantes” começa com a capacidade e muda após cada confirmação. “vagas_restantes ← vagas_restantes - 1” calcula e guarda um novo valor. A seta indica atribuição, não igualdade matemática.</p>
+<div style="overflow-x:auto"><table style="border-collapse:collapse;width:100%"><thead><tr><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Momento</th><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Inscrição</th><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Antes</th><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Resultado</th><th scope="col" style="text-align:left;border:1px solid #cbd5e1;padding:10px;background:#eaf2fa">Depois</th></tr></thead><tbody><tr><td style="border:1px solid #cbd5e1;padding:10px">Início</td><td style="border:1px solid #cbd5e1;padding:10px">Nenhuma</td><td style="border:1px solid #cbd5e1;padding:10px">3</td><td style="border:1px solid #cbd5e1;padding:10px">Preparar atendimento</td><td style="border:1px solid #cbd5e1;padding:10px">3</td></tr><tr><td style="border:1px solid #cbd5e1;padding:10px">1</td><td style="border:1px solid #cbd5e1;padding:10px">Ana</td><td style="border:1px solid #cbd5e1;padding:10px">3</td><td style="border:1px solid #cbd5e1;padding:10px">Confirmada</td><td style="border:1px solid #cbd5e1;padding:10px">2</td></tr><tr><td style="border:1px solid #cbd5e1;padding:10px">2</td><td style="border:1px solid #cbd5e1;padding:10px">Beto</td><td style="border:1px solid #cbd5e1;padding:10px">2</td><td style="border:1px solid #cbd5e1;padding:10px">Confirmado</td><td style="border:1px solid #cbd5e1;padding:10px">1</td></tr><tr><td style="border:1px solid #cbd5e1;padding:10px">3</td><td style="border:1px solid #cbd5e1;padding:10px">Cris</td><td style="border:1px solid #cbd5e1;padding:10px">1</td><td style="border:1px solid #cbd5e1;padding:10px">Confirmada</td><td style="border:1px solid #cbd5e1;padding:10px">0</td></tr><tr><td style="border:1px solid #cbd5e1;padding:10px">4</td><td style="border:1px solid #cbd5e1;padding:10px">Davi</td><td style="border:1px solid #cbd5e1;padding:10px">0</td><td style="border:1px solid #cbd5e1;padding:10px">Espera</td><td style="border:1px solid #cbd5e1;padding:10px">0</td></tr></tbody></table></div>
+<p>As listas “confirmados” e “espera” começam vazias e recebem identificadores. Quantidade e lista representam coisas diferentes.</p>
+<h2 id="repetir-a-regra">Repetir a regra</h2>
+<p>Para várias inscrições, repetimos a regra <strong>para cada</strong> item. A repetição termina quando não houver mais inscrições. Uma repetição “enquanto” exige uma condição que possa deixar de valer; caso contrário, pode não terminar.</p>
+<pre style="white-space:pre-wrap;background:#f1f5f9;padding:16px"><code>vagas_restantes ← 3
+confirmados ← lista vazia
+espera ← lista vazia
+Para cada identificador na ordem de chegada
+    Se identificador estiver vazio
+        Informar correção
+    Senão, se vagas_restantes &gt; 0
+        Adicionar identificador a confirmados
+        vagas_restantes ← vagas_restantes - 1
+    Senão
+        Adicionar identificador a espera
+Informar confirmados, espera e vagas_restantes</code></pre>
+<p>O modelo supõe identificadores distintos e inscrições sequenciais. Um serviço real precisa definir o tratamento de duplicatas e pedidos simultâneos.</p>
+<h2 id="pratica-de-pausa">Prática de pausa</h2>
+<p>Refaça a tabela com duas vagas e quatro pessoas. Depois insira uma entrada vazia na segunda posição. A terceira pessoa válida recebe a segunda vaga?</p></div></body></html>
